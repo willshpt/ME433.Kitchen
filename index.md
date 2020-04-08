@@ -7,11 +7,11 @@ The information contained here are some of our favorite recipes. Clone the repos
 Check the README.md file and [Dinky theme](https://pages-themes.github.io/dinky/) for hints on formatting. 
 
 ### Example
-Here is my example, [Banana Muffins](./recipes/bananamuffins.md)
+Here is my example, [Banana Muffins](./recipes/bananamuffins.html)
 
 ## Our recipes
 Add your recipe to the bulleted list:
-- [Banana Muffins](https://ndm736.github.io/ME433.Kitchen/recipes/bananamuffins.md)
+- [Banana Muffins](./recipes/bananamuffins.html)
 
 
 
