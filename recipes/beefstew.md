@@ -9,6 +9,8 @@ I use my pressure cooker a few times a week. It gives you that slow cooked meal 
 - 1 tablespoon extra virgin olive oil
 - 6 strips bacon
 - 3 lbs beef chuck or stewing beef
+- handfull of baby carrots
+- 1 large onion
 
 
 ### Instructions
