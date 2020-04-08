@@ -9,6 +9,9 @@ I use my pressure cooker a few times a week. It gives you that slow cooked meal 
 - 1 tablespoon extra virgin olive oil
 - 6 strips bacon
 - 3 lbs beef chuck or stewing beef
+- 6 cloves garlic
+- salt and pepper to taste
+- 3 cups red wine, Merlot or Pinot Noir
 
 
 ### Instructions
