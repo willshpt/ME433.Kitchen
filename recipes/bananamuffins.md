@@ -2,7 +2,14 @@
 layout: default
 ---
 
+<!---
+This is a comment. Note the triple dash to start, but double to end
+-->
+
 ## Nick's Gluten Free Banana Muffins
+<!---
+Put your name or github username somewhere
+-->
 My SO prefers to eat gluten free, and I love buying bananas and not eating them before they go bad, so this is what I do with them. Makes 12 muffins.
 
 ### Ingredients
@@ -31,4 +38,7 @@ My SO prefers to eat gluten free, and I love buying bananas and not eating them 
 
 Enjoy!
 
+<!--
+Keep this link to return to the index
+-->
 [back to index](../)
