@@ -19,6 +19,7 @@ Add your recipe to the bulleted list:
 - [Pad Thai](./recipes/PadThai.html)
 - [Gyudon](./recipes/gyudon.html)
 - [PB&J](./recipes/PB&J.html)
+- [Green Eggs and Ham](./recipes/greeneggs.html)
 - [kuih bahulu](./recipes/kuihbahulu.html)
 - [Milk Cake](./recipes/milkcake.html)
 - [Milk Bread](./recipes/oyakodon.html)
@@ -35,5 +36,12 @@ Add your recipe to the bulleted list:
 - [Milk Bread](./recipes/milkbread.html)
 - [Chilli Crab](./recipes/chillicrab.html)
 - [Aglio e Olio](./recipes/AglioEOlio.html)
-
-
+- [Deep Fried Tofu](./recipes/deepfriedtofu.html)
+- [Soft Pretzels](./recipes/softPretzels.html)
+- [Bubble Tea](./recipes/BubbleTea.html)
+- [Homestyle Wisconsin Beer Bread](./recipes/WisconsinBeerBread.md)
+- [Brownie in a Mug](./recipes/BrownieInAMug.html)
+- [Dal Tadka](./recipes/daltadka.html)
+- [Leftover Salad Soup](./recipes/leftoversaladsoup.html)
+- [Crock-Pot French Toast](./recipes/crockpotfrenchtoast.html)
+- [Borscht](./recipes/borscht.html)
