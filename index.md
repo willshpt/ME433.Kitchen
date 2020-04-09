@@ -23,3 +23,4 @@ Add your recipe to the bulleted list:
 - [Milk Cake](./recipes/milkcake.html)
 - [Black Bean Dip](./recipes/blackbean_dip.html)
 - [Chocolate Marshmallow Cookies](./recipes/chocolatemarshmallow.html)
+- [Sour Cream Noodle Bake](./recipes/noodlebake.html)
