@@ -8,7 +8,7 @@ or spinach is about to expire, I make this veggie soup that I can puree the gree
 Sry for lack of clear measurements
 
 ### Ingredients
-- Leafy greens: As indicated, use whatever is about to expire and you need to get rid of. Arugula, spinach, lettuce, kale, it all works.
+- Leafy greens: Use whatever is about to expire and you need to get rid of. Arugula, spinach, lettuce, kale, it all works.
 - Garlic: If using raw garlic, I like to use 2-3 cloves. If using pre-minced garlic, maybe 1-2 tsp
 - Onion, shallot, green onion, leek: What do you have in your kitchen? Use it. Doesn't matter how much, just adjust veg broth and 
     potato ratios accordingly
