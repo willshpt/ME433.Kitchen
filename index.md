@@ -64,3 +64,4 @@ Add your recipe to the bulleted list:
 - [Pumpkin Cupcakes](./recipes/pumpkincupcakes.html)
 - [Chicken Quesadilla](./recipes/chickenquesadilla.html)
 - [Disaster](./recipes/disaster.html)
+- [Chocolate Wacky Cake](./recipes/wackycake.html)
