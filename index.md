@@ -36,6 +36,7 @@ Add your recipe to the bulleted list:
 - [Milk Bread](./recipes/milkbread.html)
 - [Chilli Crab](./recipes/chillicrab.html)
 - [Aglio e Olio](./recipes/AglioEOlio.html)
-- [Deep Fried Tofu] (./recipes/deepfriedtofu.html)
+- [Deep Fried Tofu](./recipes/deepfriedtofu.html)
 - [Soft Pretzels](./recipes/softpretzels.html)
 - [Bubble Tea](./recipes/BubbleTea.html)
+- [Homestyle Wisconsin Beer Bread](./recipes/WisconsinBeerBread.md)
