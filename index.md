@@ -42,3 +42,4 @@ Add your recipe to the bulleted list:
 - [Homestyle Wisconsin Beer Bread](./recipes/WisconsinBeerBread.md)
 - [Brownie in a Mug](./recipes/BrownieInAMug.html)
 - [Dal Tadka](./recipes/daltadka.html)
+- [Leftover Salad Soup](./recipes/leftoversaladsoup.html)
