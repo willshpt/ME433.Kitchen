@@ -16,3 +16,6 @@ Add your recipe to the bulleted list:
 - [Perfect Instant Ramen](./recipes/perfectramen.html)
 - [Grilled Cheese](./recipes/grilledcheese.html)
 - [Pad Thai](./recipes/PadThai.html)
+- [Gyudon](./recipes/gyudon.html)
+- [kuihbahulu](./recipes/kuihbahulu.html)
+
