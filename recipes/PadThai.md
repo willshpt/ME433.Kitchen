@@ -1,3 +1,4 @@
+---
 layout: default
 ---
 <!--- Testing my own instructions from another account -->
@@ -32,6 +33,7 @@ Heat 1½ tablespoons of oil in a large saucepan or wok over medium-high heat.
 4. Push everything to the side of the pan. Add a little more oil and add the beaten eggs. Scramble the eggs, breaking them into small pieces with a spatula as they cook.
 5. Add noodles, sauce, bean sprouts and peanuts to the pan (reserving some peanuts for topping at the end). Toss everything to combine.
 6. Top with green onions, extra peanuts, cilantro and lime wedges. Serve immediately!
+
 <!--
 Keep this link to return to the index
 -->
