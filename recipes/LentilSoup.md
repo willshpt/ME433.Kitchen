@@ -1,8 +1,8 @@
-#Namra's Vegetarian Lentil Soup 
+# Namra's Vegetarian Lentil Soup 
 
 Just something to sip through if you want a little spice in your life.
 
-##Ingredients
+## Ingredients
 - Lentils 
 - 1 tomatoe
 - Ginger
@@ -12,7 +12,7 @@ Just something to sip through if you want a little spice in your life.
 - Salt
 - Oil 
 
-###Instructions
+### Instructions
 1. In a pot, boil a cup of lentils until its a liquid consistency. Cut the tomatoe, 1 green chilli, ginger and garlic and add that to the pot. 
 2. Add salt to taste. Let it all mix together until its in a soup form. Turn the pot stove off. 
 3. In a seperate pan, take some oil, add in a little onion and 1 green chilli until it simmers. 

@@ -46,10 +46,8 @@ Add your recipe to the bulleted list:
 - [Crock-Pot French Toast](./recipes/crockpotfrenchtoast.html)
 - [Borscht](./recipes/borscht.html)
 - [OdeToTheQueen](./recipes/odetothequeen.html)
-
-
-- [Creamy Penne Pasta] (./recipes/creamypasta.md)
-
+- [Instant Noodles](./recipes/instantnoodles.html)
+- [Twice-cooked pork](./recipes/Twicecookedpork.html)
 - [Creamy Penne Pasta](./recipes/creamypasta.html)
 - [Borscht](./recipes/borscht.html)
 - [Bahn Mi Tacos](./recipes/bahnmi_tacos.html)
