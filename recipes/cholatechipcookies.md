@@ -2,17 +2,19 @@
 layout: default
 ---
 
+
+
+## Chris' Chocolate Chip Cookies 
+
 <!---
 Chris Aretakis
 Github Username: c-aretakis
 -->
 
-# Chris' Chocolate Chip Cookies 
-
-Classic Chocolate Chip Cookie Recipe
+Classic Chocolate Chip Cookie Recipe. Crisp on the outside, soft in the middle.
+Makes around 24 cookies.
 
 ### Ingredients
-
 - 1 teaspoon baking soda
 - 2 teaspoons warm water
 - 1/2 teaspoon salt
@@ -25,7 +27,6 @@ Classic Chocolate Chip Cookie Recipe
 - 2 cups semisweet chocolate chips
 
 ### Instructions
-
 1. Preheat oven to 350F. 
 2. Cream together butter and both sugars until smooth.
 3. Beat in the eggs one at a time.
