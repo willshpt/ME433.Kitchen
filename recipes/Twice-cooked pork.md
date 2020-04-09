@@ -27,8 +27,10 @@ My SO prefers to eat gluten free, and I love buying bananas and not eating them 
 3. Slice the pork thinly so you have 1/4-inch thick rectangles of meat
 4. Cut Heat oil or lard in wok over medium-high heat until shimmering. 
 5. Add the slices of pork and stir-fry until the fat has rendered somewhat and the skin is brown and somewhat crisp, about 2 minutes. 
-6. Push the pork to one side of the wok and add the chili bean paste. Stir-fry until the oil is red, then add the sweet bean paste and the black beans and stir-fry for a few seconds longer. 
+6. Push the pork to one side of the wok and add the chili bean paste. Stir-fry until the oil is red, 
+then add the sweet bean paste and the black beans and stir-fry for a few seconds longer. 
 7. Mix everything together and add the soy sauce and the sugar
+
 
 
 Enjoy!
