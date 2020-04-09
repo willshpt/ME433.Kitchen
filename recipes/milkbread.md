@@ -8,7 +8,7 @@ This is a comment. Note the triple dash to start, but double to end
 
 ## Colin's hokkaido Milk Bread
 <!---
-cxl3941 is my netID!
+cxl3941 is my netID
 -->
 This recipe produces a soft, chewy, and rich bread. Takes a while, too, so it'll help pass the time in this slightly dull period. 
 
