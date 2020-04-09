@@ -12,7 +12,7 @@ Put your name or github username somewhere
 -->
 Total comfort food pasta from Bon Appétit. It's creamy and savory and delicious. Absolutely my favorite home-cooked meal! 
 
-### INGREDIENTS
+### Ingredients
 - 1 tablespoon butter
 - 1 tablespoon olive oil
 - 1 medium onion, thinly sliced
