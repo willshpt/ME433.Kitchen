@@ -23,3 +23,5 @@ Just something to sip through if you want a little spice in your life.
 4. Turn the pan stove off, add the mixture in the lentil pot and mix it all together. 
 
 Enjoy!
+
+[back to index](../)
