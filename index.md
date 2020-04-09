@@ -38,4 +38,4 @@ Add your recipe to the bulleted list:
 - [Aglio e Olio](./recipes/AglioEOlio.html)
 - [Deep Fried Tofu] (./recipes/deepfriedtofu.html)
 - [Soft Pretzels](./recipes/softpretzels.html)
-- [Bubble Tea](./recipes/BubbleTea.md.html)
+- [Bubble Tea](./recipes/BubbleTea.html)
