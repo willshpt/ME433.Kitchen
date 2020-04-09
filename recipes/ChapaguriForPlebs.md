@@ -17,7 +17,7 @@ Feeds about two hungry college students.
 ### Ingredients
 - 2 packages of Chapagetti
 - 1 package of Neoguri
-  You can probably find these at any asian supermarket
+- You can probably find these at any asian supermarket
 
 
 ### Instructions
@@ -26,7 +26,6 @@ Feeds about two hungry college students.
 3. Drain water from the pot. Leave a little water to mix the noodles
 4. Add the oil and soupbase packets from the Chapagetti packages and half of the soupbase from Neoguri (Adding the vegetable packets are optional. I personally don't)
 5. Mix while the pot is on simmer
-6. Enjoy!
 
 
 Enjoy!

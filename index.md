@@ -48,8 +48,10 @@ Add your recipe to the bulleted list:
 - [Borscht](./recipes/borscht.html)
 - [OdeToTheQueen](./recipes/odetothequeen.html)
 
+
 - [Creamy Penne Pasta] (./recipes/creamypasta.md)
 
+- [Creamy Penne Pasta](./recipes/creamypasta.html)
 - [Borscht](./recipes/borscht.html)
 - [Bahn Mi Tacos](./recipes/bahnmi_tacos.html)
 
