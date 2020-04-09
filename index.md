@@ -40,3 +40,4 @@ Add your recipe to the bulleted list:
 - [Soft Pretzels](./recipes/softpretzels.html)
 - [Bubble Tea](./recipes/BubbleTea.html)
 - [Brownie in a Mug](./recipes/BrownieInAMug.html)
+- [Dal Tadka](./recipes/daltadka.html)
