@@ -1,4 +1,3 @@
-```
 ---
 layout: default
 ---
@@ -27,4 +26,3 @@ Bubble tea is a very famous beverage which originates from my hometown, so I wou
 Enjoy!
 
 [back to index](../)
-```
