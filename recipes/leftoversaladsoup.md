@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default 
 ---
 ## Lizzie's Leftover Salad Soup Recipe (really just a modified and healthy potato soup)
 The soup is better than the name would indicate. It kind of mimics a traditional Irish veg stew, but without turnips. 
