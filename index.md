@@ -20,4 +20,7 @@ Add your recipe to the bulleted list:
 - [Gyudon](./recipes/gyudon.html)
 - [PB&J](./recipes/PB&J.html)
 - [kuih bahulu](./recipes/kuihbahulu.html)
+- [Milk Cake](./recipes/milkcake.html)
+- [Black Bean Dip](./recipes/blackbean_dip.html)
 - [Chocolate Marshmallow Cookies](./recipes/chocolatemarshmallow.html)
+- [Sour Cream Noodle Bake](./recipes/noodlebake.html)
