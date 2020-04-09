@@ -1,6 +1,11 @@
-# soft pretzels
+---
+layout: default
+---
 
-## ingredients
+## Conor Porter's Soft Pretzels
+
+
+### Ingredients
 
 dough:
 - 3 cups flour
@@ -14,7 +19,8 @@ egg wash:
 - coarse sea salt
 - 3 Tbs. baking soda
 
-## instructions
+### Instructions
+
 1. mix flour, sugar and salt in bowl
 2. add instant yeast to dry incredients or active dry yeast to water, depending on type used
 3. mix dry ingredients
@@ -34,4 +40,11 @@ egg wash:
 17. bake at 450F for 14 minutes, or until brown
 
 
+Enjoy!
+
 source: https://www.youtube.com/watch?v=wUoA-F3sdvw
+
+<!--
+Keep this link to return to the index
+-->
+[back to index](../)
