@@ -62,3 +62,4 @@ Add your recipe to the bulleted list:
 - [Penne in Cream Sauce with Italian Sausage](./recipes/CreamyItalianSausagePenne.html)
 - [Pumpkin Cupcakes](./recipes/pumpkincupcakes.html)
 - [Chicken Quesadilla](./recipes/chickenquesadilla.html)
+- [Disaster](./recipes/disaster.html)
