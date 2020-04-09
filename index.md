@@ -37,7 +37,7 @@ Add your recipe to the bulleted list:
 - [Chilli Crab](./recipes/chillicrab.html)
 - [Aglio e Olio](./recipes/AglioEOlio.html)
 - [Deep Fried Tofu](./recipes/deepfriedtofu.html)
-- [Soft Pretzels](./recipes/softpretzels.html)
+- [Soft Pretzels](./recipes/softPretzels.html)
 - [Bubble Tea](./recipes/BubbleTea.html)
 - [Brownie in a Mug](./recipes/BrownieInAMug.html)
 - [Dal Tadka](./recipes/daltadka.html)
