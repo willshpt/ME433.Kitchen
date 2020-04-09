@@ -25,7 +25,7 @@ This particular scrambled egg recipe should only ever be called upon if you want
 2. Crack in the eggs and scramble them. 
 3. Stir in the Pesto.
 4. Finish Cooking. 
-4. Enjoy!
+5. Enjoy!
 
 
 You're Welcome!
