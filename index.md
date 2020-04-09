@@ -15,5 +15,7 @@ Add your recipe to the bulleted list:
 - [Beef Stew](./recipes/beefstew.html)
 - [Perfect Instant Ramen](./recipes/perfectramen.html)
 - [Grilled Cheese](./recipes/grilledcheese.html)
+- [Pad Thai](./recipes/PadThai.html)
 - [Gyudon](./recipes/gyudon.html)
 - [kuihbahulu](./recipes/kuihbahulu.html)
+
