@@ -27,3 +27,4 @@ Add your recipe to the bulleted list:
 - [dhabeli](./recipes/dhabeli.html)
 - [Hummus](./recipes/hummus.html)
 - [FriedRice](./recipes/FriedRice.html)
+- [Kung Pao Chicken](./recipes/KungPaoChicken.html)
