@@ -10,7 +10,7 @@ This is a comment. Note the triple dash to start, but double to end
 <!---
 Put your name or github username somewhere
 -->
-My SO prefers to eat gluten free, and I love buying bananas and not eating them before they go bad, so this is what I do with them. Makes 12 muffins.
+
 
 ### Ingredients
 - 1 slice of ginger
