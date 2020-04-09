@@ -39,3 +39,4 @@ Add your recipe to the bulleted list:
 - [Deep Fried Tofu](./recipes/deepfriedtofu.html)
 - [Soft Pretzels](./recipes/softpretzels.html)
 - [Bubble Tea](./recipes/BubbleTea.html)
+- [Brownie in a Mug](./recipes/BrownieInAMug.html)
