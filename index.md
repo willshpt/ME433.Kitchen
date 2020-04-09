@@ -43,3 +43,4 @@ Add your recipe to the bulleted list:
 - [Brownie in a Mug](./recipes/BrownieInAMug.html)
 - [Dal Tadka](./recipes/daltadka.html)
 - [Leftover Salad Soup](./recipes/leftoversaladsoup.html)
+- [Crock-Pot French Toast](./recipes/crockpotfrenchtoast.html)
