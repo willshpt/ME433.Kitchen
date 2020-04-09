@@ -19,8 +19,8 @@ I really adore good hummus and store bough hummus just doesn't compare! Therefor
 - 1 clove of garlic minced or mashed
 - 2 tablespoons of olive oil
 - 1/2 teaspoon ground cumin
-- several teaspoons of water (to fine tune the consistancy)
-- salt to taste
+- Several teaspoons of water (to fine tune the consistancy)
+- Salt to taste
 
 
 ### Instructions
