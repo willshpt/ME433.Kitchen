@@ -59,4 +59,4 @@ Add your recipe to the bulleted list:
 - [Veggie Pasta](./recipes/VeggiePasta.html)
 - [Salt-Pepper Shrimps](./recipes/SaltPepperShrimps.html)
 - [Crepes](./recipes/Crepes.html)
-- [Creamy Penne with Italian Sausage](./recipes/CreamyItalianSausagePenne.html)
+- [Penne in Cream Sauce with Italian Sausage](./recipes/CreamyItalianSausagePenne.html)
