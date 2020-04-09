@@ -59,6 +59,10 @@ Add your recipe to the bulleted list:
 - [Veggie Pasta](./recipes/VeggiePasta.html)
 - [Salt-Pepper Shrimps](./recipes/SaltPepperShrimps.html)
 - [Crepes](./recipes/Crepes.html)
+- [Coke Chicken Wing](./recipes/CokeChickenWing.html)
 - [Penne in Cream Sauce with Italian Sausage](./recipes/CreamyItalianSausagePenne.html)
 - [Pumpkin Cupcakes](./recipes/pumpkincupcakes.html)
 - [Chicken Quesadilla](./recipes/chickenquesadilla.html)
+- [Mushroom Pork](./recipes/mushroompork.html)
+- [Disaster](./recipes/disaster.html)
+bb613560c21a865d46c9fd0f25e2b372ac6a8076
