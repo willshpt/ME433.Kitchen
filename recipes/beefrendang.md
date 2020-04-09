@@ -28,14 +28,6 @@ l. 6 tablespoons kerisik, toasted coconut
 m. 1 tablespoon sugar or palm sugar to taste
 n. salt to taste
 
-###Spice Paste 
--5 shallots
--1 inch galangal
--3 lemongrass (white part only)
--5 cloves garlic
--1 inch ginger
--10-12 dried chilies, soaked in warm water and seeded
-
 ### Instructions
 1. Chop the spice paste ingredients and then blend it in a food processor until fine.
 2. Heat the oil in a stew pot, add the spice paste, cinnamon, cloves, star anise, and cardamom and stir-fry until aromatic. 
