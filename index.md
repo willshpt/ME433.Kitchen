@@ -44,3 +44,4 @@ Add your recipe to the bulleted list:
 - [Dal Tadka](./recipes/daltadka.html)
 - [Leftover Salad Soup](./recipes/leftoversaladsoup.html)
 - [Crock-Pot French Toast](./recipes/crockpotfrenchtoast.html)
+- [Borscht](./recipes/borscht.html)
