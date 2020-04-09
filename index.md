@@ -24,3 +24,4 @@ Add your recipe to the bulleted list:
 - [PB&J](./recipes/PB&J.html)
 - [kuih bahulu](./recipes/kuihbahulu.html)
 - [Milk Cake](./recipes/milkcake.html)
+- [Black Bean Dip](./recipes/blackbean_dip.html)
