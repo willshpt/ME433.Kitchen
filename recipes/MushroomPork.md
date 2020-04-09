@@ -12,7 +12,7 @@ This is a comment. Note the triple dash to start, but double to end
 Put your name or github username somewhere
 -->
 
-A typical Chinese dish using the technology of fired!
+A typical Chinese homemade dish using fired! (Although I do a really bad work for this dish)
 
 ### Ingredients
 - 200g fresh mushrooms
@@ -24,15 +24,14 @@ A typical Chinese dish using the technology of fired!
 - 10g corn starch
 - 3g MSG
 - 8g ginger
-- 1g pepper powder
 - 1g pepper
 
 ### Instructions
-1. Meat and Mushroom slices, respectively;
-2. Meat, salt, cooking wine and mix well on the wet starch slurry;
-3. With cooking wine, monosodium glutamate, onion, ginger, soup, pepper, black pepper, wet starch into juice;
-4. Wok hot grease, cook pork after the oil is heated, using a spoon to fried;
-5. Add mushrooms and juice, fried until fully cooked.
+1. Cut Meat and Mushroom into slices, respectively;
+2. Mix meat, salt and cooking wine in the wet starch slurry;
+3. Making soup With cooking wine, monosodium glutamate, onion, ginger, black pepper and starch;
+4. Pull oil into wok, cook pork after the oil is heated, using a spoon to fry;
+5. Add mushrooms and soup, fried until fully cooked.
 
 Enjoy!
 
