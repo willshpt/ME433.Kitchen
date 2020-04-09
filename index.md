@@ -28,3 +28,4 @@ Add your recipe to the bulleted list:
 - [Hummus](./recipes/hummus.html)
 - [FriedRice](./recipes/FriedRice.html)
 - [Kung Pao Chicken](./recipes/KungPaoChicken.html)
+- [Oyakodon](./recipes/oyakodon.html)
