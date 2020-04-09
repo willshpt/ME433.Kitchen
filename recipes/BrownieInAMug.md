@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Ben's Recipe for Brownie in a Mug
 I love brownies and I'm very lazy, so here's a great recipe to enjoy brownies within 5 minutes.
 Makes 1 brownie.
@@ -20,3 +24,7 @@ Makes 1 brownie.
 4. Top with ice cream! Let cool for a minute and serve with a scoop of vanilla ice cream or a teaspoon or two of whipping cream poured over.
 
 This wonderful recipe can be found at [https://www.simplyrecipes.com/recipes/brownie_in_a_mug/](url)
+
+Enjoy!
+
+[back to index](../)
