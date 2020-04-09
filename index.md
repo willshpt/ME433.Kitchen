@@ -32,11 +32,7 @@ Add your recipe to the bulleted list:
 - [FriedRice](./recipes/FriedRice.html)
 - [Kung Pao Chicken](./recipes/kungpaochicken.html)
 - [Oyakodon](./recipes/oyakodon.html)
-HEAD
-
-
 - [Milk Bread](./recipes/milkbread.html)
 - [Aglio e Olio](./recipes/AglioEOlio.html)
- a44ab29189816fb72f7812da6ed684263555b042
 
 
