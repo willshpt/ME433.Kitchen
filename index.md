@@ -23,3 +23,4 @@ Add your recipe to the bulleted list:
 - [Gyudon](./recipes/gyudon.html)
 - [PB&J](./recipes/PB&J.html)
 - [kuih bahulu](./recipes/kuihbahulu.html)
+- [Milk Cake](./recipes/milkcake.html)
