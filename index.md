@@ -40,3 +40,4 @@ Add your recipe to the bulleted list:
 - [Soft Pretzels](./recipes/softpretzels.html)
 - [Bubble Tea](./recipes/BubbleTea.html)
 - [Homestyle Wisconsin Beer Bread](./recipes/WisconsinBeerBread.md)
+- [Brownie in a Mug](./recipes/BrownieInAMug.html)
