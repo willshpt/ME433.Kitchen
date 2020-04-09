@@ -14,12 +14,19 @@ This recipe is based on the movie "Fear and Loathing in Las Vegas"
 
 ### Ingredients (serves 2)
 -two bags of grass
+
 -seventy-five pellets of mescaline
+
 -five sheets of high-powered blotter acid
+
 -a saltshaker half-full of cocaine
+
 -a whole galaxy of multi-colored uppers
+
 -downers
+
 -screamers
+
 -laughers
 
 ### Instructions
