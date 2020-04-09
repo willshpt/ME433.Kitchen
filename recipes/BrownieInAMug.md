@@ -23,7 +23,7 @@ Makes 1 brownie.
 3. Zap in microwave: Place in microwave and heat on high until the mixture is cooked through, about a 1 minute and 40 seconds for a 1000 watt microwave, or 1 minute 10 seconds on a 1650 watt microwave.
 4. Top with ice cream! Let cool for a minute and serve with a scoop of vanilla ice cream or a teaspoon or two of whipping cream poured over.
 
-This wonderful recipe can be found at [https://www.simplyrecipes.com/recipes/brownie_in_a_mug/](url)
+This wonderful recipe can be found at [https://www.simplyrecipes.com/recipes/brownie_in_a_mug/](https://www.simplyrecipes.com/recipes/brownie_in_a_mug/)
 
 Enjoy!
 
