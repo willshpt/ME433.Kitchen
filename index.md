@@ -25,3 +25,4 @@ Add your recipe to the bulleted list:
 - [Chocolate Marshmallow Cookies](./recipes/chocolatemarshmallow.html)
 - [Sour Cream Noodle Bake](./recipes/noodlebake.html)
 - [dhabeli](./recipes/dhabeli.html)
+- [hummus](./recipes/hummus.html)
