@@ -1,3 +1,7 @@
+---
+layout: default 
+---
+
 # Namra's Vegetarian Lentil Soup 
 
 Just something to sip through if you want a little spice in your life.
