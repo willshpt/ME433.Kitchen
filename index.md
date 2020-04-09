@@ -44,5 +44,14 @@ Add your recipe to the bulleted list:
 - [Dal Tadka](./recipes/daltadka.html)
 - [Leftover Salad Soup](./recipes/leftoversaladsoup.html)
 - [Crock-Pot French Toast](./recipes/crockpotfrenchtoast.html)
+- [Borscht](./recipes/borscht.html)
 - [OdeToTheQueen](./recipes/odetothequeen.html)
 - [Instant Noodles](./recipes/instantnoodles.html)
+
+
+- [Creamy Penne Pasta] (./recipes/creamypasta.md)
+
+- [Creamy Penne Pasta](./recipes/creamypasta.html)
+- [Borscht](./recipes/borscht.html)
+- [Bahn Mi Tacos](./recipes/bahnmi_tacos.html)
+
