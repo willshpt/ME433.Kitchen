@@ -50,3 +50,5 @@ Add your recipe to the bulleted list:
 
 - [OdeToTheQueen](./recipes/odetothequeen.html)
 
+- [Borscht](./recipes/borscht.html)
+
