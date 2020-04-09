@@ -67,3 +67,4 @@ Add your recipe to the bulleted list:
 - [Disaster](./recipes/disaster.html)
 - [Omelet](./recipes/Omelet.html)
 - [Chocolate Wacky Cake](./recipes/wackycake.html)
+- [Banana Pancakes](./recipes/bananapancakes.html)
