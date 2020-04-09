@@ -26,7 +26,7 @@ I really like cheese and I really like bread so when I have both of them, I like
 5. Sprinkle the grated mozzarella on one piece of bread.
 6. Use some sort of utensil (spoon, fork, knife, spatula, etc.) to peak under the other piece of bread until it is golden.
 7. Once the bread is golden, place the non-mozzarella bread slice onto the other and press it down with a spatula or your hand for 20 seconds.
-8. Slide the grilled cheese off of the pan and onto a plate then cut it in half ~diagonally~.
+8. Slide the grilled cheese off of the pan and onto a plate then cut it in half **diagonally**.
 
 Enjoy!
 
