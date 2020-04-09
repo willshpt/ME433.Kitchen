@@ -2,7 +2,7 @@ layout: default
 ---
 <!--- Testing my own instructions from another account -->
 ## Roberto's Pad Thai
-I use my pressure cooker a few times a week. It gives you that slow cooked meal flavor with dump everything in and ignore effort.
+I wish this were Cozy's recipe....
 
 ### Ingredients
 - 8 ounces flat rice noodles
