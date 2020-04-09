@@ -26,3 +26,4 @@ Add your recipe to the bulleted list:
 - [Sour Cream Noodle Bake](./recipes/noodlebake.html)
 - [dhabeli](./recipes/dhabeli.html)
 - [Hummus](./recipes/hummus.html)
+- [Tomato & Eggs Stir Fry](./recipes/tomatoeggstirfry.html)
