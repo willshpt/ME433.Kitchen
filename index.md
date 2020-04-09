@@ -66,3 +66,4 @@ Add your recipe to the bulleted list:
 - [Mushroom Pork](./recipes/mushroompork.html)
 - [Disaster](./recipes/disaster.html)
 - [Omelet](./recipes/Omelet.html)
+- [Chocolate Wacky Cake](./recipes/wackycake.html)
