@@ -67,3 +67,4 @@ Add your recipe to the bulleted list:
 - [Disaster](./recipes/disaster.html)
 bb613560c21a865d46c9fd0f25e2b372ac6a8076
 - [Disaster](./recipes/disaster.html)
+- [Omelet](./recipes/Omelet.html)
