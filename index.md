@@ -58,3 +58,4 @@ Add your recipe to the bulleted list:
 - [Lentil Soup](./recipes/LentilSoup.html)
 - [Veggie Pasta](./recipes/VeggiePasta.html)
 - [Salt-Pepper Shrimps](./recipes/SaltPepperShrimps.html)
+- [Crepes](./recipes/Crepes.html)
