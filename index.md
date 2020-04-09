@@ -30,6 +30,7 @@ Add your recipe to the bulleted list:
 - [Sour Cream Noodle Bake](./recipes/noodlebake.html)
 - [dhabeli](./recipes/dhabeli.html)
 - [Hummus](./recipes/hummus.html)
+- [Tomato & Eggs Stir Fry](./recipes/tomatoeggstirfry.html)
 - [FriedRice](./recipes/FriedRice.html)
 - [Kung Pao Chicken](./recipes/kungpaochicken.html)
 - [Oyakodon](./recipes/oyakodon.html)
@@ -54,3 +55,6 @@ Add your recipe to the bulleted list:
 - [Sausage_Broccoli_Pasta](./recipes/Sausage_Broccoli_Pasta.html)
 - [SenthilPalanisamy](./recipes/indian_egg_masala.html)
 - [Cajun Shrimp Pasta](./recipes/cajunshrimppasta.html)
+- [Lentil Soup](./recipes/LentilSoup.html)
+- [Veggie Pasta](./recipes/VeggiePasta.html)
+>>>>>>> b0f9411aec43bae397848a31631bc6c6221b662f
