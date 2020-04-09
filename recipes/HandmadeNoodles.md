@@ -25,7 +25,7 @@ My dad makes really good Chinese handmade noodles and I thought I would share! T
 7. Boil water in a pot 
 8. Lightly and gently stretch the noodles to increase their length before tossing them in the pot. Noodles should have increased their length to approximately 1.5x their original length 
 9. Boil noodles for approximately 14 minutes or until they are fully cooked and not mushy 
-10. Put noodles in bowl and drain the water
+10. Drain the water and put noodles in bowl
 
 ### Part 2: Making the sauce
 1. Put the vegetable oil in a saucepan and put on medium heat
