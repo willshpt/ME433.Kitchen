@@ -10,7 +10,7 @@ This is a comment. Note the triple dash to start, but double to end
 <!---
 Put your name or github username somewhere
 -->
-I really love beef hotpot and here's the easy version. Try to do it by yourself!!!
+I really love beef hotpot and here's the easy version. It tastes good. Try to do it by yourself!!!
 
 ### Ingredients
 - 2 onions
