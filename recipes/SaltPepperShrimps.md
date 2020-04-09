@@ -27,6 +27,7 @@ If you don't have salt-pepper, it's easy to prepare some with the following ingr
 - 1 star anise (seeds removed)
 - 10 red chill peppers
 - 1/4 oz white peppers
+
 Just stir-roast the mixture for 10 minutes and finely grind it.
 
 ### Instructions
