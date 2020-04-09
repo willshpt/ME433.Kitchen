@@ -53,4 +53,5 @@ Add your recipe to the bulleted list:
 - [Creamy Penne Pasta](./recipes/creamypasta.html)
 - [Borscht](./recipes/borscht.html)
 - [Bahn Mi Tacos](./recipes/bahnmi_tacos.html)
+- [Sausage_Broccoli_Pasta](./recipes/Sausage_Broccoli_Pasta.html)
 
