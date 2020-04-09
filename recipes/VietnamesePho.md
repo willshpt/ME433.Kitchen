@@ -14,21 +14,21 @@ Pho is famous Vietnamese national dish.
 
 ### Ingredients
 - Steak, chicken, pork or shrimp: If you choose to use steak, chicken or pork, it will need to be super-thinly sliced in order to cook quickly in the broth.  To do this, I recommend popping the protein in the freezer for about 45-60 minutes, then slicing it against the grain as thinly as possible.  (Alternately, you can ask the butcher to thinly slice your meat for you, or add pre-cooked meat to your soup.)  Or if you choose to use shrimp, just be sure that it is peeled with the tails on or off.
-- Thin rice noodles: Traditional pho is made with thin rice noodles, such as these.  In order to prevent the noodles from overcooking in the broth, it’s traditional to cook pho noodles separately on their own.  Then the noodles will be added to each individual serving bowl, and the protein, hot broth and toppings will be added on top of the noodles.
+- Thin rice noodles: Traditional pho is made with thin rice noodles, such as these.  In order to prevent the noodles from overcooking in the broth, it's traditional to cook pho noodles separately on their own.  Then the noodles will be added to each individual serving bowl, and the protein, hot broth and toppings will be added on top of the noodles.
 - Pho broth: To make the most delicious pho broth, you will need the following elements:
 - Fresh onions and ginger: Which we will briefly cook in a skillet (or you can pop them under the broiler in your oven) until they are charred, to add that classic smoky flavor to the broth.
-- Beef stock: In order to save us all a few hours of cooking meat stock from scratch, I’ve written this recipe using (good quality!) store-bought stock as a shortcut.  Vietnamese pho broth is traditionally made with beef stock, but you are also welcome to mix things up and use chicken or veggie stock instead if you prefer.
+- Beef stock: In order to save us all a few hours of cooking meat stock from scratch, I've written this recipe using (good quality!) store-bought stock as a shortcut.  Vietnamese pho broth is traditionally made with beef stock, but you are also welcome to mix things up and use chicken or veggie stock instead if you prefer.
 - Spices: There are 5 important spices in pho broth — star anise, whole cloves, cinnamon sticks, cardamom pods, and coriander seeds.  I really recommend using the whole (not ground) spices, if possible, which we will briefly toast to bring out extra flavor.  But see notes below for ground spice substitutions, if needed.
-- Fish sauce: It’s traditional to add just a little splash to the broth.
+- Fish sauce: It's traditional to add just a little splash to the broth.
 - Sweetener: I used brown sugar to sweeten my broth instead of traditional yellow rock sugar, but really, any sweetener you prefer would work.
 - Sea salt: As always, to season your broth.
-- Toppings, toppings, toppings: This is one soup recipe where the toppings are not optional — they’re the stars of the soup!  Feel free to pick and choose your favorites, but I recommend at least one from each category:
+- Toppings, toppings, toppings: This is one soup recipe where the toppings are not optional — they're the stars of the soup!  Feel free to pick and choose your favorites, but I recommend at least one from each category:
 - Fresh herbs: The more the merrier!  I recommend a combo of fresh cilantro, fresh mint and fresh Thai basil (or Italian basil, in a pinch).
 - Bean sprouts: You can find these in the produce section of your grocery store, or they are always available in Asian groceries.
 - Lime wedges: Essential for brightening up the flavors of the broth.
 - Chiles (optional): Either sliced Thai bird chiles, jalapeños, or serrano peppers are optional if you would like to add some heat.
 - Onions (optional): Either sliced green onions or very-thinly-sliced white onions as a garnish.
-- Sauces (optional): It’s also traditional to serve pho with hoisin sauce and/or sriracha, to use as a garnish if desired.
+- Sauces (optional): It's also traditional to serve pho with hoisin sauce and/or sriracha, to use as a garnish if desired.
 
 ### Instructions
 - Prep the protein. In order to slice the beef, chicken or pork as thinly as possible, I recommend popping the meat in the freezer for at least 30-45 minutes to chill.  Then use a sharp knife to thinly slice the meat before adding it to the soup.
