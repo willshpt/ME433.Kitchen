@@ -60,4 +60,4 @@ Add your recipe to the bulleted list:
 - [Salt-Pepper Shrimps](./recipes/SaltPepperShrimps.html)
 - [Crepes](./recipes/Crepes.html)
 - [Penne in Cream Sauce with Italian Sausage](./recipes/CreamyItalianSausagePenne.html)
-- [Chicken Quesadilla]((./recipes/chickenquesadilla.html)
+- [Chicken Quesadilla](./recipes/chickenquesadilla.html)
