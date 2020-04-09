@@ -59,3 +59,4 @@ Add your recipe to the bulleted list:
 - [Veggie Pasta](./recipes/VeggiePasta.html)
 - [Salt-Pepper Shrimps](./recipes/SaltPepperShrimps.html)
 - [Crepes](./recipes/Crepes.html)
+- [Coke Chicken Wing](./recipes/CokeChickenWing.html)
