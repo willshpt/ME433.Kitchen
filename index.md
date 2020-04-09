@@ -24,6 +24,7 @@ Add your recipe to the bulleted list:
 - [Black Bean Dip](./recipes/blackbean_dip.html)
 - [Vietnamese pho](./recipes/VietnamesePho.html)
 - [Chocolate Marshmallow Cookies](./recipes/chocolatemarshmallow.html)
+- [Chocolate Chip Cookies](./recipes/chocolatechipcookies.html)
 - [Sour Cream Noodle Bake](./recipes/noodlebake.html)
 - [dhabeli](./recipes/dhabeli.html)
 - [Hummus](./recipes/hummus.html)
