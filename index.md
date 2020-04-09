@@ -21,6 +21,7 @@ Add your recipe to the bulleted list:
 - [PB&J](./recipes/PB&J.html)
 - [kuih bahulu](./recipes/kuihbahulu.html)
 - [Milk Cake](./recipes/milkcake.html)
+- [Milk Bread](./recipes/milkbread.html)
 - [Black Bean Dip](./recipes/blackbean_dip.html)
 - [Vietnamese pho](./recipes/VietnamesePho.html)
 - [Chocolate Marshmallow Cookies](./recipes/chocolatemarshmallow.html)
@@ -33,5 +34,6 @@ Add your recipe to the bulleted list:
 - [Oyakodon](./recipes/oyakodon.html)
 - [Milk Bread](./recipes/milkbread.html)
 - [Chilli Crab](./recipes/chillicrab.html)
+- [Aglio e Olio](./recipes/AglioEOlio.html)
 
 
