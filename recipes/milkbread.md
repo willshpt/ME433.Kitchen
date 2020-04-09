@@ -13,20 +13,20 @@ cxl3941 is my netID!
 This recipe produces a soft, chewy, and rich bread. Takes a while, too, so it'll help pass the time in this slightly dull period. 
 
 ### Ingredients
--STARTER
-	-1/4 tablespoon bread flour
-	-1/4 cup whole milk
-	-1/4 cup water
--DOUGH
-	-2 1/2 cup bread flour
-	-1/4 cup granulated sugar
-	-2 1/4 teaspoons active dry yeast, 1 yeast packet
-	-1 tablespoon dry milk powder or sweetened condensed milk
-	-1 teaspoon salt
-	-1/2 cup milk, room temperature
-	-1 egg, room temperature and beaten
-	-1/4 cup unsalted butter, softened
-	-Heavy cream or melted butter
+- Starter
+  - 1/4 tablespoon bread flour
+  - 1/4 cup whole milk
+  - 1/4 cup water
+- Dough
+  - 2 1/2 cup bread flour
+  - 1/4 cup granulated sugar
+  - 2 1/4 teaspoons active dry yeast, 1 yeast packet
+  - 1 tablespoon dry milk powder or sweetened condensed milk
+  - 1 teaspoon salt
+  - 1/2 cup milk, room temperature
+  - 1 egg, room temperature and beaten
+  - 1/4 cup unsalted butter, softened
+  - Heavy cream or melted butter
 
 ### Instructions
 1. In a small saucepan over medium heat, combined the ingredients for the starter.  Stir continuously for 4-5 minutes or until the starter thickens to the consistency of mashed potatoes.  Transfer to a bowl and cover with plastic wrap.  Let sit until the starter gets to room temperature.
