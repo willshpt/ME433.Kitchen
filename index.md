@@ -35,5 +35,5 @@ Add your recipe to the bulleted list:
 - [Milk Bread](./recipes/milkbread.html)
 - [Chilli Crab](./recipes/chillicrab.html)
 - [Aglio e Olio](./recipes/AglioEOlio.html)
-
+- [Soft Pretzels](./recipes/softPretzels.html)
 
