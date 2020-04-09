@@ -57,4 +57,3 @@ Add your recipe to the bulleted list:
 - [Cajun Shrimp Pasta](./recipes/cajunshrimppasta.html)
 - [Lentil Soup](./recipes/LentilSoup.html)
 - [Veggie Pasta](./recipes/VeggiePasta.html)
->>>>>>> b0f9411aec43bae397848a31631bc6c6221b662f
