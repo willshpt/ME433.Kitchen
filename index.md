@@ -32,5 +32,6 @@ Add your recipe to the bulleted list:
 - [Kung Pao Chicken](./recipes/kungpaochicken.html)
 - [Oyakodon](./recipes/oyakodon.html)
 - [Milk Bread](./recipes/milkbread.html)
+- [Chilli Crab](./recipes/chillicrab.html)
 
 
