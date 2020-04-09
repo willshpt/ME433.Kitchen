@@ -52,4 +52,4 @@ Add your recipe to the bulleted list:
 - [Borscht](./recipes/borscht.html)
 - [Bahn Mi Tacos](./recipes/bahnmi_tacos.html)
 - [Sausage_Broccoli_Pasta](./recipes/Sausage_Broccoli_Pasta.html)
-
+- [SenthilPalanisamy](./recipes/indian_egg_masala.html)
