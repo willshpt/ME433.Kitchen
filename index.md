@@ -45,3 +45,4 @@ Add your recipe to the bulleted list:
 - [Leftover Salad Soup](./recipes/leftoversaladsoup.html)
 - [Crock-Pot French Toast](./recipes/crockpotfrenchtoast.html)
 - [OdeToTheQueen](./recipes/odetothequeen.html)
+- [Creamy Penne Pasta] (./recipes/creamypasta.md)
