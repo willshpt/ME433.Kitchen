@@ -69,5 +69,4 @@ Add your recipe to the bulleted list:
 - [Chocolate Wacky Cake](./recipes/wackycake.html)
 - [Banana Pancakes](./recipes/bananapancakes.html)
 - [Sweet Potato Curry](./recipes/SweetPotatoCurry.html)
-
-
+- [Chicken Parm](./recipes/ChickenParm.html)
