@@ -17,18 +17,21 @@ This is a Singapore-style chilli crab, served at hawker stalls, and is a favouri
 - 1 egg, lightly beaten
 - small handful coriander, chopped
 - small handful chives, chopped
+
 #### Grind to a paste
 - 1 onion
 - 3 bird's eye chillies
-- cloves garlic
+- 3 cloves garlic
 - 2" ginger
 - 2 tablespoon fermented soybean paste
 
 
 ### Instructions
+
 #### Preparing the tamarind
 1. Soak the pulp in the water for about 15 minutes.
 2. After soaking, give it all good mix and squeeze the pulp with your fingers, then strain through a medium or large mesh sieve. Discard the seeds and pulp.
+
 #### Cooking the dish
 1. Clean and chop crabs.
 2. Heat oil in a large wok and fry the paste ingredients until fragrant, about 2 minutes.

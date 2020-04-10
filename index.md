@@ -65,6 +65,9 @@ Add your recipe to the bulleted list:
 - [Chicken Quesadilla](./recipes/chickenquesadilla.html)
 - [Mushroom Pork](./recipes/MushroomPork.html)
 - [Disaster](./recipes/disaster.html)
-bb613560c21a865d46c9fd0f25e2b372ac6a8076
-- [Disaster](./recipes/disaster.html)
 - [Omelet](./recipes/Omelet.html)
+- [Chocolate Wacky Cake](./recipes/wackycake.html)
+- [Banana Pancakes](./recipes/bananapancakes.html)
+- [Sweet Potato Curry](./recipes/SweetPotatoCurry.html)
+- [Chicken Parm](./recipes/ChickenParm.html)
+- [Sugar Cookies](./recipes/sugarcookies.html)

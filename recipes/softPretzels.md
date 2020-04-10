@@ -42,7 +42,7 @@ egg wash:
 
 Enjoy!
 
-source: https://www.youtube.com/watch?v=wUoA-F3sdvw
+source: [youtube](https://www.youtube.com/watch?v=wUoA-F3sdvw)
 
 <!--
 Keep this link to return to the index
