@@ -68,6 +68,6 @@ Add your recipe to the bulleted list:
 - [Omelet](./recipes/Omelet.html)
 - [Chocolate Wacky Cake](./recipes/wackycake.html)
 - [Banana Pancakes](./recipes/bananapancakes.html)
-- [Sweet Potato Curry](./recipes/sweetpotatocurry.html)
+- [Sweet Potato Curry](./recipes/SweetPotatoCurry.html)
 
 
