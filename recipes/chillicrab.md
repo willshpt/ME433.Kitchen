@@ -27,6 +27,7 @@ This is a Singapore-style chilli crab, served at hawker stalls, and is a favouri
 
 
 ### Instructions
+
 #### Preparing the tamarind
 1. Soak the pulp in the water for about 15 minutes.
 2. After soaking, give it all good mix and squeeze the pulp with your fingers, then strain through a medium or large mesh sieve. Discard the seeds and pulp.
