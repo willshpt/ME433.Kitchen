@@ -70,3 +70,4 @@ Add your recipe to the bulleted list:
 - [Banana Pancakes](./recipes/bananapancakes.html)
 - [Sweet Potato Curry](./recipes/SweetPotatoCurry.html)
 - [Chicken Parm](./recipes/ChickenParm.html)
+- [Sugar Cookies](./recipes/sugarcookies.html)
