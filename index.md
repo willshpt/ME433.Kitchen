@@ -71,3 +71,4 @@ Add your recipe to the bulleted list:
 - [Sweet Potato Curry](./recipes/SweetPotatoCurry.html)
 - [Chicken Parm](./recipes/ChickenParm.html)
 - [Sugar Cookies](./recipes/sugarcookies.html)
+- [Homemade Pop Tarts](./recipes/poptarts.html)
