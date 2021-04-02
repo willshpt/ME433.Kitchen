@@ -72,5 +72,5 @@ Add your recipe to the bulleted list:
 - [Chicken Parm](./recipes/ChickenParm.html)
 - [Sugar Cookies](./recipes/sugarcookies.html)
 - [Homemade Pop Tarts](./recipes/poptarts.html)
-- [Nutella Babka Cake](./recipes/babka.html)
+- [Nutella Babka Cake](./recipes/nutella_babka_cake.html)
 - [Focaccia](./recipes/focaccia.html)
