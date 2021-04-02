@@ -78,3 +78,7 @@ Add your recipe to the bulleted list:
 - [Rice](./recipes/rice.html)
 - [Trinidad Kurma](./recipes/trinidadkurma.html) 
 - [Stuffed French Toast](./recipes/frenchtoast.html)
+- [Masala Chai](./recipes/MasalaChai.html)
+- [Cinnamon Rolls](./recipes/cinnamonRolls.html)
+- [Steamed Broccoli](./recipes/steamedbroccoli.html)
+- [Sheet Pan Chicken](./recipes/sheetpanchicken.html)
