@@ -75,3 +75,4 @@ Add your recipe to the bulleted list:
 - [Nutella Babka Cake](./recipes/nutella_babka_cake.html)
 - [Focaccia](./recipes/focaccia.html)
 - [Better Banana Pancakes](./recipes/betterbananapancakes.html)
+- [Rice](./recipes/rice.html)
