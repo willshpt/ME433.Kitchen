@@ -76,3 +76,4 @@ Add your recipe to the bulleted list:
 - [Focaccia](./recipes/focaccia.html)
 - [Better Banana Pancakes](./recipes/betterbananapancakes.html)
 - [Rice](./recipes/rice.html)
+- [Trinidad Kurma](.recipes/trinidadkurma.html) 
