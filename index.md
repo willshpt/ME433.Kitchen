@@ -79,3 +79,4 @@ Add your recipe to the bulleted list:
 - [Trinidad Kurma](./recipes/trinidadkurma.html) 
 - [Stuffed French Toast](./recipes/frenchtoast.html)
 - [Masala Chai](./recipes/MasalaChai.html)
+- [Cinnamon Rolls](./recipes/cinnamonRolls.html)
