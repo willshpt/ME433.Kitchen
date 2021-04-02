@@ -77,3 +77,4 @@ Add your recipe to the bulleted list:
 - [Better Banana Pancakes](./recipes/betterbananapancakes.html)
 - [Rice](./recipes/rice.html)
 - [Trinidad Kurma](./recipes/trinidadkurma.html) 
+- [Stuffed French TOast](./recipes/frenchtoast.html)
