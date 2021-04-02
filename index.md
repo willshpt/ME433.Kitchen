@@ -73,3 +73,4 @@ Add your recipe to the bulleted list:
 - [Sugar Cookies](./recipes/sugarcookies.html)
 - [Homemade Pop Tarts](./recipes/poptarts.html)
 - [Focaccia](./recipes/focaccia.html)
+- [Better Banana Pancakes](./recipes/betterbananapancakes.html)
