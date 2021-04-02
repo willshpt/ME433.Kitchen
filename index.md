@@ -81,3 +81,4 @@ Add your recipe to the bulleted list:
 - [Masala Chai](./recipes/MasalaChai.html)
 - [Cinnamon Rolls](./recipes/cinnamonRolls.html)
 - [Steamed Broccoli](./recipes/steamedbroccoli.html)
+- [Sheet Pan Chicken](./recipes/sheetpanchicken.html)
