@@ -72,3 +72,4 @@ Add your recipe to the bulleted list:
 - [Chicken Parm](./recipes/ChickenParm.html)
 - [Sugar Cookies](./recipes/sugarcookies.html)
 - [Homemade Pop Tarts](./recipes/poptarts.html)
+- [Focaccia](./recipes/focaccia.html)
