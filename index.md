@@ -73,3 +73,4 @@ Add your recipe to the bulleted list:
 - [Sugar Cookies](./recipes/sugarcookies.html)
 - [Homemade Pop Tarts](./recipes/poptarts.html)
 - [Nutella Babka Cake](./recipes/babka.html)
+- [Focaccia](./recipes/focaccia.html)
