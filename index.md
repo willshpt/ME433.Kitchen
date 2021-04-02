@@ -78,4 +78,4 @@ Add your recipe to the bulleted list:
 - [Rice](./recipes/rice.html)
 - [Trinidad Kurma](./recipes/trinidadkurma.html) 
 - [Stuffed French Toast](./recipes/frenchtoast.html)
-- [Masala Chai](./recipes/masalachai.html)
+- [Masala Chai](./recipes/MasalaChai.html)
