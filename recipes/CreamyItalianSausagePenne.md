@@ -8,6 +8,7 @@ This is a comment. Note the triple dash to start, but double to end
 
 ## Michael's Penne in Cream Sauce with Italian Sausage
 ![Yummy!](https://assets.epicurious.com/photos/57a105e9437fcffe02f7235d/6:4/w_620%2Ch_413/penne-in-cream-sauce-with-sausage.jpg)
+
 Total comfort food pasta. It's creamy and savory and delicious - the best one-pot pasta. Side with a light caeser salad and some garlic bread and you've got yourself a meal!
 
 ### Ingredients
