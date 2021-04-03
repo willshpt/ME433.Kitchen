@@ -82,3 +82,4 @@ Add your recipe to the bulleted list:
 - [Cinnamon Rolls](./recipes/cinnamonRolls.html)
 - [Steamed Broccoli](./recipes/steamedbroccoli.html)
 - [Sheet Pan Chicken](./recipes/sheetpanchicken.html)
+- [Steamed Egg](./recipes/steamedegg.html)
