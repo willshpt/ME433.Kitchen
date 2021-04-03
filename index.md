@@ -86,3 +86,4 @@ Add your recipe to the bulleted list:
 - [Steamed Egg](./recipes/steamedegg.html)
 - [Tiramisu.md](./recipes/Tiramisu.html)
 - [Mac and Cheese](./recipes/MacandCheeseGodson.html)
+- [Gratin Savoyard](./recipes/GratinSavoyard.html)
