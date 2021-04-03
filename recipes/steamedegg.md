@@ -25,8 +25,8 @@ A low effort, high comfort dish
 3. Beat an egg into the above mixture
 4. Sieve the mixture into the bowl for steaming
 5. Place bowl in steamer / pot with steaming rack and water on low heat
-6. Steam till solid
-3. Serve with steamed [rice](../recipes/rice) or [steamed broccoli](../recipes/steamedbroccoli)
+6. Steam till solid. When mostly solid, add mushroom slices on the top then steam till mushrooms are softened
+7. Serve with steamed [rice](../recipes/rice) or [steamed broccoli](../recipes/steamedbroccoli)
 
 Enjoy!
 
