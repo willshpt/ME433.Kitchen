@@ -6,7 +6,7 @@ layout: default
 Recipe for Masala Chai. Github name: sgh1827.
 -->
 
-## Indian Chai
+## Masala Chai
 This is a famous beverage in India that is popular amongst all age groups.
 
 ### Ingredients
@@ -26,7 +26,7 @@ This is a famous beverage in India that is popular amongst all age groups.
 5. When the tea has fully boiNoled, add the crushed spices and ginger to the tea
 6. Now add sugar (as per your taste)
 7. Now add about the same quantity of milk as water (2 cups)
-8. Allow for the chai to boil and wait for it to turn a slightly darker in color
+8. Allow for the chai to boil and wait for it to turn slightly darker in color
 9. Sieve the chai into cups and enjoy!
 
 
