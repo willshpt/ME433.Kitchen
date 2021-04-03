@@ -68,6 +68,7 @@ Add your recipe to the bulleted list:
 - [Omelet](./recipes/Omelet.html)
 - [Chocolate Wacky Cake](./recipes/wackycake.html)
 - [Banana Pancakes](./recipes/bananapancakes.html)
+- [Breakfast Burritos](./recipes/breakfastburrito.html)
 - [Sweet Potato Curry](./recipes/SweetPotatoCurry.html)
 - [Chicken Parm](./recipes/ChickenParm.html)
 - [Sugar Cookies](./recipes/sugarcookies.html)
