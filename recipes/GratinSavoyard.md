@@ -56,7 +56,7 @@ Cook time:
  18. Remove from oven and let sit for 5-10 minutes.
 
 Eat time:
- 19. Serve with salad and vinaigrette, and a sturdy Rhone wine. _mady note: no clue what a Rhone wine is. maybe it means red. wine only if you're >=21_ This is a nice dish to serve "family style" right at the table, because it looks so terrific out of the oven. That and you and your guests will want to pick at what's left in the dish at the end of the meal as you all make happy noises.
+ 19. Serve with salad and vinaigrette, and a sturdy Rhone wine. _Wine only if you're 21+!!_ This is a nice dish to serve "family style" right at the table, because it looks so terrific out of the oven. That and you and your guests will want to pick at what's left in the dish at the end of the meal as you all make happy noises.
 
 (Bob) Notes:
 
@@ -70,7 +70,7 @@ _mady note: someone in the comments said they put hazelnut oil between layers bu
  1. Replace the Comté cheese with Gruyere
  2. Replace the circularly-cut Yukon Golds with longitudinally-cut organic Idahos
  3. Replace the yellow onions with shallots
- 4. Replace the "sturdy Rhone wine" with a cold "grocery store Chardonnay" _mady note: if he were to give a 2021 update it would probably involve "replace the 'grocery store Chardonnay' with 'lemon flavored seltzer'"_
+ 4. Replace the "sturdy Rhone wine" with a cold "grocery store Chardonnay" _mady note: if he were to give a 2021 update it would probably involve "replace the 'grocery store Chardonnay' with 'lemon flavored seltzer, or water or whatever, who am I to tell you what to do'"_
  5. Switch the oven to convection bake for the first 30 minutes and the last 10
 
 
