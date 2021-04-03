@@ -23,7 +23,7 @@ Guidelines for a basic breakfast burrito. You are encouraged to add personality 
 4. Season eggs with salt and pepper.
 5. Warm tortillas in a separate pan over low heat.
 6. Combine eggs, sausage, and hot sauce in tortillas.
-7. (https://www.youtube.com/watch?v=j5Sm_umARa0 "roll into burritos").
+7. [Roll into burritos.](https://www.youtube.com/watch?v=j5Sm_umARa0)
 8. Dip in sour cream and enjoy!
 
 [back to index](../)
