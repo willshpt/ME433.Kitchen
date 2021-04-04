@@ -10,7 +10,7 @@ This is a comment. Note the triple dash to start, but double to end
 <!---
 Put your name or github username somewhere
 -->
-How to pan sear steak - Xiaowei Bi
+How to pan sear steak
 
 ### Ingredients
 - 1 New York Strip Steak (about 1 pound and 1 1/4" thick)
