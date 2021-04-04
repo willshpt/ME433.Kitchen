@@ -100,5 +100,6 @@ Add your recipe to the bulleted list:
 - [Spanikopita(Greek Spinach Pie)](./recipes/Spanikopita.html)
 - [Lava Cake](./recipes/LavaCake.html)
 - [Crispy Pork Belly](./recipes/crispyporkbelly.html)
+- [Chicago Hot Dog](./recipes/ChicagoDogRecipe.html)
 
 
