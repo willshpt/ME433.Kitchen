@@ -2,7 +2,7 @@
 layout: default
 
 ## Bohan's Crispy Pork Belly
-This is a delicious crispy pork belly recipe!
+This is a delicious crispy pork belly with a savory sauce!
 
 ### Ingredients
 - Pork Belly
