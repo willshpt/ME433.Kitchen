@@ -88,3 +88,4 @@ Add your recipe to the bulleted list:
 - [Mac and Cheese](./recipes/MacandCheeseGodson.html)
 - [Gratin Savoyard](./recipes/GratinSavoyard.html)
 - [Steak](./recipes/Steak.html)
+- [Sweet Corn Pork Rib Soup](./recipes/sweetcornporkribsoup.html)
