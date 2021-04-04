@@ -1,8 +1,3 @@
-Chicago Style Vienna Hot Dogs
----
-layout: default
----
-
 ## Chicago Style Vienna Hot Dogs
 I love Chicago hot dogs, and since moving to the Chicago area, I've started making Chicago hot dogs all the time! (Makes 1 dog)
 
