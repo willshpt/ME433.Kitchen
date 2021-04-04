@@ -32,3 +32,10 @@ I love Chicago hot dogs, and since moving to the Chicago area, I've started maki
 8. Tuck a pickle into the bun on one side of the dog, 2 sport peppers on the other side, and the tomato wedges in between.
 9. Scoop some green relish and onions on top of the dog. 
 10. Sprinkle some celery salt on top and enjoy!
+
+Github: Elray326
+
+<!--
+Keep this link to return to the index
+-->
+[back to index](../)
