@@ -97,3 +97,5 @@ Add your recipe to the bulleted list:
 - [Quiche](./recipes/quiche.html)
 - [Doughnuts](./recipes/Doughnuts.html)
 - [Egg Rolls](./recipes/Eggroll.html)
+- [Spanikopita(Greek Spinach Pie)](./recipes/Spanikopita.html)
+
