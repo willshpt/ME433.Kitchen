@@ -91,3 +91,5 @@ Add your recipe to the bulleted list:
 - [Sweet Corn Pork Rib Soup](./recipes/sweetcornporkribsoup.html)
 - [Kimchi Fried Rice](./recipes/KimchiFriedRice.html)
 - [Breakfast potatoes](./recipes/Breakfast_Potatoes.html)
+- [Chocolate Babka](./recipes/chocolatebabka.html)
+ed6232eba0b87315dc3b092fb32d3df284d89843
