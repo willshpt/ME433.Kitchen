@@ -96,3 +96,4 @@ Add your recipe to the bulleted list:
 - [Caramelized Pork Bowl](./recipes/CaramelizedPorkBowl.html)
 - [Quiche](./recipes/quiche.html)
 - [Doughnuts](./recipes/Doughnuts.html)
+- [Egg Rolls](./recipes/Eggroll.html)
