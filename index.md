@@ -98,5 +98,5 @@ Add your recipe to the bulleted list:
 - [Doughnuts](./recipes/Doughnuts.html)
 - [Egg Rolls](./recipes/Eggroll.html)
 - [Spanikopita(Greek Spinach Pie)](./recipes/Spanikopita.html)
-- [Crispy Pork Belly](./recipes/crispyporkbelly.html)
+- [Crispy Pork Belly](./recipes/CrispyPorkBelly.html)
 
