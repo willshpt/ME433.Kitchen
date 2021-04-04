@@ -33,11 +33,11 @@ Amount produced: 60 egg rolls
 
 #### Prep
 1. Soak the lily flower, fungus strips, and shitake mushrooms in water over night.
-1.5 If you couldn't find the pork stips cut the pork loins into 1/4 in thick slices.  	
-2. Marinate the pork strips in the sugar, cornstarch, baking soda, 1 tbs of soysauce, and salt overnight.
-3. When the everything is finished soaking, drain all the soaked ingredients and squeeze dry.
-4. Cut the shitake mushrooms in slices.
-5. Cut the baked tofu in 3rds parallel to the square face and then into thin strips.
+2. If you couldn't find the pork stips cut the pork loins into 1/4 in thick slices.  	
+3. Marinate the pork strips in the sugar, cornstarch, baking soda, 1 tbs of soysauce, and salt overnight.
+4. When the everything is finished soaking, drain all the soaked ingredients and squeeze dry.
+5. Cut the shitake mushrooms in slices.
+6. Cut the baked tofu in 3rds parallel to the square face and then into thin strips.
 
 #### Making the Filling
 1. Stir fry the bamboo, lily flower, fungus strips, shitake mushrooms, and baked tofu in tbs of oil adding salt and setting aside.
