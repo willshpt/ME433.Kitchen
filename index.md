@@ -92,4 +92,4 @@ Add your recipe to the bulleted list:
 - [Kimchi Fried Rice](./recipes/KimchiFriedRice.html)
 - [Breakfast potatoes](./recipes/Breakfast_Potatoes.html)
 - [Chocolate Babka](./recipes/chocolatebabka.html)
-- [Banana Bread](./recipes/bananabread.html)
+- [Secret Banana Bread](./recipes/bananabread.html)
