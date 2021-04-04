@@ -90,3 +90,4 @@ Add your recipe to the bulleted list:
 - [Steak](./recipes/Steak.html)
 - [Sweet Corn Pork Rib Soup](./recipes/sweetcornporkribsoup.html)
 - [Kimchi Fried Rice](./recipes/KimchiFriedRice.html)
+- [Chocolate Babka](./recipes/chocolatebabka.html)
