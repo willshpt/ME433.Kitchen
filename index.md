@@ -93,4 +93,3 @@ Add your recipe to the bulleted list:
 - [Breakfast potatoes](./recipes/Breakfast_Potatoes.html)
 - [Chocolate Babka](./recipes/chocolatebabka.html)
 - [Banana Bread](./recipes/bananabread.html)
-ed6232eba0b87315dc3b092fb32d3df284d89843
