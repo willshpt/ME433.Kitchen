@@ -94,3 +94,4 @@ Add your recipe to the bulleted list:
 - [Chocolate Babka](./recipes/chocolatebabka.html)
 - [Banana Bread](./recipes/bananabread.html)
 - [Caramelized Pork Bowl](./recipes/CaramelizedPorkBowl.html)
+- [Doughnuts](./recipes/Doughnuts.html)
