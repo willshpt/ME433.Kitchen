@@ -1,4 +1,3 @@
-@ -1 +1,32 @@
 Chicago Style Vienna Hot Dogs
 ---
 layout: default
