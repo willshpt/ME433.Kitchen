@@ -18,4 +18,4 @@
 3. Sautee garlic, when lightly browned add chicken and bring stove to high heat
 4. Brown chicken on both sides, add spices while doing so
 5. Bring stove down to medium low, add lemon juice, white wine, chicken broth
-6. Cover and let simmer until done, likely 20-30 min, depending on chicken size and bone/boneless. Check center before serving
+6. Cover and let simmer until done, likely 20-30 min, depending on chicken size and bone/boneless. Check center to see if done before serving
