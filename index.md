@@ -106,3 +106,4 @@ Add your recipe to the bulleted list:
 - [Michael's Mac and Cheese](./recipes/MacandCheeseMichael.html)
 - [Lemon Chicken](./recipes/LemonChicken.html)
 - [Cinnamon Baked French Toast](./recipes/CinnamonBakedFrenchToast.html)
+- [Barley Stuffed Peppers] (./recipes/BarleyStuffedPeppers.html)
