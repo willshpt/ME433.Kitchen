@@ -23,7 +23,7 @@ Add your recipe to the bulleted list:
 - [kuih bahulu](./recipes/kuihbahulu.html)
 - [Milk Cake](./recipes/milkcake.html)
 - [Milk Bread](./recipes/oyakodon.html)
-- [Meat and Rice] (./recipes/meatandrice.html)
+- [Meat and Rice](./recipes/meatandrice.html).
 - [Black Bean Dip](./recipes/blackbean_dip.html)
 - [Vietnamese pho](./recipes/VietnamesePho.html)
 - [Chocolate Marshmallow Cookies](./recipes/chocolatemarshmallow.html)
