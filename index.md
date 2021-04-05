@@ -101,5 +101,6 @@ Add your recipe to the bulleted list:
 - [Lava Cake](./recipes/LavaCake.html)
 - [Crispy Pork Belly](./recipes/crispyporkbelly.html)
 - [Chicago Hot Dog](./recipes/ChicagoHotDog.html)
+- [Pozole](./recipes/pozole.html)
 
 
