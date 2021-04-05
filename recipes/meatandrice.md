@@ -5,7 +5,7 @@ This is my incredibly basic recipe for meat and rice. I am a terrible cook, but 
 
 ## Ingredients You Will Need (1 Serving)
 
-**These ingredient amounts are approximations, and please feel free to add more or less depending on your preference.
+**These ingredient amounts are approximations, and please feel free to add more or less depending on your preference.**
 
 *   1 tablespoon of chili flakes
 *   olive oil
