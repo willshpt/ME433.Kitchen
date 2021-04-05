@@ -103,3 +103,4 @@ Add your recipe to the bulleted list:
 - [Chicago Hot Dog](./recipes/ChicagoHotDog.html)
 - [Pozole](./recipes/pozole.html)
 - [Michael's Mac and Cheese](./recipes/MacandCheeseMichael.html)
+- [Ian's Lemon Chicken](./recipes/LemonChicken.html)
