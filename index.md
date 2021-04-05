@@ -104,3 +104,4 @@ Add your recipe to the bulleted list:
 - [Pozole](./recipes/pozole.html)
 - [Michael's Mac and Cheese](./recipes/MacandCheeseMichael.html)
 - [Lemon Chicken](./recipes/LemonChicken.html)
+- [Cinnamon Baked French Toast](./recipes/CinnamonBakedFrenchToast.html)
