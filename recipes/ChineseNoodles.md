@@ -14,7 +14,7 @@ Put your name or github username somewhere
 -->
 
 
-### Ingredients (serves 2)
+### Ingredients (serves 1)
 - Oriental style noodles
 - Cooking oil
 - Olive oil
