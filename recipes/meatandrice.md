@@ -10,7 +10,7 @@ This is my incredibly basic recipe for meat and rice. I am a terrible cook, but 
 *   1 tablespoon of chili flakes
 *   olive oil
 *   1 tablespoon of salt
-*   1 table spoon of pepper
+*   1 tablespoon of pepper
 *   1/2 cup of rice
 *   1/8 stick of salted butter
 *   1 raw hamburger patty
@@ -22,17 +22,17 @@ This is my incredibly basic recipe for meat and rice. I am a terrible cook, but 
 -   Add rice
 -   Let rice cook for 15-20 minutes with top on
 -   Mash the ground-beef (or hamburger) with your hands
-    -   Ensure that the individual chunks are not that large
+-   After "mashing," ensure that the individual chunks are not that large
 -   Put olive oil in pot, and turn on stove heat
 -   Put meat into pot, and begin to stir
 -   After 5 minutes, put the onions in
 -   Add salt, pepper, and chili flakes immediately after
 -   Continue stirring (adding additional seasoning if necessary)
--   Continue to cook for 5-10 more minutes or until cooked well
+-   Continue to cook for 5-10 more minutes or until meat is cooked well
 -   Take pot with onions, meat, and seasoning off heat
 -   Take rice off heat (when evidently cooked) and drain water
 -   Add butter and a small amount of salt/pepper to the rice
--   Put meat on top of rice, and serve.
+-   Put meat on top of rice, and serve
 
 * * *
 
