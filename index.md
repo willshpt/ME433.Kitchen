@@ -110,3 +110,4 @@ Add your recipe to the bulleted list:
 - [Egg-in-a-Basket](./recipes/EggInABasket.html)
 - [Stuffed Zucchini Blossoms](./recipes/StuffedZucchiniBlossoms.html)
 - [Tonno Alla Brace](./recipes/TonnoAllaBrace.html)
+- [Spicy Vegetarian CHilli)(./recipes/vegetarianchilli.html)
