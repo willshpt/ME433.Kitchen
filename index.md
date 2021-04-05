@@ -108,3 +108,4 @@ Add your recipe to the bulleted list:
 - [Cinnamon Baked French Toast](./recipes/CinnamonBakedFrenchToast.html)
 - [Barley Stuffed Peppers](./recipes/BarleyStuffedPeppers.html)
 - [Egg-in-a-Basket](./recipes/EggInABasket.html)
+- [Stuffed Zucchini Blossoms](./recipes/StuffedZucchiniBlossoms.html)
