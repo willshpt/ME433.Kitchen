@@ -23,7 +23,6 @@ Add your recipe to the bulleted list:
 - [kuih bahulu](./recipes/kuihbahulu.html)
 - [Milk Cake](./recipes/milkcake.html)
 - [Milk Bread](./recipes/oyakodon.html)
-- [Meat and Rice](./recipes/meatandrice.html)
 - [Black Bean Dip](./recipes/blackbean_dip.html)
 - [Vietnamese pho](./recipes/VietnamesePho.html)
 - [Chocolate Marshmallow Cookies](./recipes/chocolatemarshmallow.html)
@@ -111,4 +110,4 @@ Add your recipe to the bulleted list:
 - [Egg-in-a-Basket](./recipes/EggInABasket.html)
 - [Stuffed Zucchini Blossoms](./recipes/StuffedZucchiniBlossoms.html)
 - [Tonno Alla Brace](./recipes/TonnoAllaBrace.html)
-- [Spicy Vegetarian CHilli)(./recipes/vegetarianchilli.html)
+- [Spicy Vegetarian CHilli](./recipes/vegetarianchilli.html)
