@@ -13,5 +13,5 @@
 3. Pour in your tomato sauce and bring the sauce to a simmer 
 4. Once the sauce is hot enough, create craters in the sauce for your eggs to go into 
 5. Crack the eggs and put the eggs into the craters you've created 
-6. Let it simmer until the eggs are cooked to your liking (**Don't overheat the sauce! The eggs won't cook fully and the sauce may get burnt. Be patient) 
+6. Let it simmer until the eggs are cooked to your liking (**Don't overheat the sauce! The eggs won't cook fully and the sauce may get burnt. Be patient**) 
 7. Eat with a slice of toast, garlic bread, or whatever you like! 
