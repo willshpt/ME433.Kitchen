@@ -120,3 +120,4 @@ Add your recipe to the bulleted list:
 - [Sunshot](./recipes/sunshot.html)
 - [Cheese Crackers](./recipes/CheeseCrackers.html)
 - [Sambocade (Medieval Cheesecake)](./recipes/sambocade.html)
+- [Portuguese Bean Soup](./recipes/portuguesebeansoup.html)
