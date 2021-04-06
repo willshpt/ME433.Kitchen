@@ -11,15 +11,6 @@ This is a comment. Note the triple dash to start, but double to end
 Put your name or github username somewhere
 Dimitrios Chamzas
 -->
-![asdqwf](https://github.com/ndm736/ME433.Kitchen/blob/master/images/pastitsio_img.jpg)
-
-### Small image
-
-![Octocat](https://github.com/ndm736/ME433.Kitchen/blob/master/images/pastitsio_img.jpg)
-
-### Large image
-
-![Branching](https://github.com/ndm736/ME433.Kitchen/blob/master/images/pastitsio_img.jpg)
 
 Pastitsio is a baked pasta dish with ground meat and béchamel sauce found in Greek, Cypriot, Egyptian, and Maltese cuisine. Though derived from the Italian pasticcio, it has evolved to be a distinctive dish.
 You can see a video of the recipe [here](https://www.youtube.com/watch?v=FV2_ZI4PhMw&ab_channel=AkisPetretzikis)
