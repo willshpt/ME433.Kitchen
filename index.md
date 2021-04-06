@@ -113,3 +113,4 @@ Add your recipe to the bulleted list:
 - [Spicy Vegetarian CHilli](./recipes/vegetarianchilli.html)
 - [Chicken Chili](./recipes/chicken_chili.html)
 - [Pastitsio](./recipes/pastitsio.html)
+- [Honey Soy Glazed Salmon](./recipes/HoneySoyGlazedSalmon.html)
