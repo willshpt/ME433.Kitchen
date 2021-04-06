@@ -107,3 +107,4 @@ Add your recipe to the bulleted list:
 - [Lemon Chicken](./recipes/LemonChicken.html)
 - [Cinnamon Baked French Toast](./recipes/CinnamonBakedFrenchToast.html)
 - [Barley Stuffed Peppers](./recipes/BarleyStuffedPeppers.html)
+- [Concrete Tacos](./recipes/concretetacos.html)
