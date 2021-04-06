@@ -112,3 +112,4 @@ Add your recipe to the bulleted list:
 - [Tonno Alla Brace](./recipes/TonnoAllaBrace.html)
 - [Spicy Vegetarian CHilli](./recipes/vegetarianchilli.html)
 - [Chicken Chili](./recipes/chicken_chili.html)
+- [Pastitsio](./recipes/pastitsio.html)
