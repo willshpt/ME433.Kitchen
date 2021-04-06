@@ -111,3 +111,4 @@ Add your recipe to the bulleted list:
 - [Stuffed Zucchini Blossoms](./recipes/StuffedZucchiniBlossoms.html)
 - [Tonno Alla Brace](./recipes/TonnoAllaBrace.html)
 - [Spicy Vegetarian CHilli](./recipes/vegetarianchilli.html)
+- [Pastitsio](./recipes/pastitsio.html)
