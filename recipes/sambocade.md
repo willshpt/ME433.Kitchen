@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Sambocade (Medieval Cheesecake)
 From The Forme of Cury, an extensive cookbook first published around 1390 CE.
 
