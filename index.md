@@ -118,3 +118,4 @@ Add your recipe to the bulleted list:
 - [Confetti Bars](./recipes/Confetti_Bars.html)
 - [Carrot Cake](./recipes/CarrotCake.html)
 - [Sunshot](./recipes/sunshot.html)
+- [Cheese Crackers](./recipes/CheeseCrackers.html)
