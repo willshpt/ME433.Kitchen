@@ -117,3 +117,4 @@ Add your recipe to the bulleted list:
 - [Breaded Chicken Cutlets](./recipes/BreadedChickenCutlets.html)
 - [Confetti Bars](./recipes/Confetti_Bars.html)
 - [Carrot Cake](./recipes/CarrotCake.html)
+- [Sunshot](./recipes/sunshot.html)
