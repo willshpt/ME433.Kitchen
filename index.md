@@ -116,3 +116,4 @@ Add your recipe to the bulleted list:
 - [Honey Soy Glazed Salmon](./recipes/HoneySoyGlazedSalmon.html)
 - [Breaded Chicken Cutlets](./recipes/BreadedChickenCutlets.html)
 - [Confetti Bars](./recipes/Confetti_Bars.html)
+- [Carrot Cake](./recipes/CarrotCake.html)
