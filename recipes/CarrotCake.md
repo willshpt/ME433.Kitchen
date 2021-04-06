@@ -6,7 +6,7 @@ layout: default
 This is a comment. Note the triple dash to start, but double to end
 -->
 
-## Jacob K's Homestyle Wisconsin Beer Bread
+## Jacob K's Carrot Cake
 <!---
 Put your name or github username somewhere
 -->
