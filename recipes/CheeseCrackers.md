@@ -1,8 +1,6 @@
-@@ -0,0 +1,36 @@
 ---
 layout: default
 ---
-
 <!---
 This is a comment. Note the triple dash to start, but double to end
 -->
