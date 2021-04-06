@@ -7,11 +7,11 @@ layout: default
 Growing up, my sister often made these confetti bars for my family. They were definitely one of our favorite desserts (along with her famous carmelitas).
 
 
-### Instructions
-½ cup peanut butter smooth
-¼ cup butter
-1 package (10 oz) butterscotch chips
-1 bag (10 oz size) miniature marshmallows coloured/flavoured variety
+### Ingredients
+1. ½ cup peanut butter smooth
+2. ¼ cup butter
+3. 1 package (10 oz) butterscotch chips
+4. 1 bag (10 oz size) miniature marshmallows coloured/flavoured variety
 
 ### Instructions
 1. Cream butter and sugars together.
