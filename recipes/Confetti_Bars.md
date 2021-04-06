@@ -24,3 +24,8 @@ Growing up, my sister often made these confetti bars for my family. They were de
 8. Bake until no longer glossy on top and lightly browned at the edges.
 9. (Process photos shown below:) Add marshmallows immediately after removing from the oven, and then return to the oven for 1 and 1/2 minutes.
 10. Remove from the oven, sprinkle on M&M’s, white chocolate chips, and finally sprinkles. Let Confetti Bars sit until firm before cutting.
+
+<!--
+Keep this link to return to the index
+-->
+[back to index](../)

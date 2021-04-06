@@ -115,3 +115,4 @@ Add your recipe to the bulleted list:
 - [Pastitsio](./recipes/pastitsio.html)
 - [Honey Soy Glazed Salmon](./recipes/HoneySoyGlazedSalmon.html)
 - [Breaded Chicken Cutlets](./recipes/BreadedChickenCutlets.html)
+- [Confetti Bars](./recipes/Confetti_Bars.html)
