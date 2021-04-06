@@ -7,10 +7,9 @@ This is a comment. Note the triple dash to start, but double to end
 -->
 
 ## Breaded Chicken Cutlets
+Quick and easy chicken cutlets
 <!---
 a-sajjadi
-
-Quick and easy chicken cutlets
 -->
 
 
