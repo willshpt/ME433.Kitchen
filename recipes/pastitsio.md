@@ -11,7 +11,7 @@ This is a comment. Note the triple dash to start, but double to end
 Put your name or github username somewhere
 Dimitrios Chamzas
 -->
-![asdf](https://www.google.com/search?q=pastitsio+akis&tbm=isch&sxsrf=ALeKk00llOtJTEkOw4Ys_shBl95OGzFjag:1617670554857&source=lnms&sa=X&ved=0ahUKEwiKqqS2tOjvAhWDVc0KHaK8AUwQ_AUIECgC&biw=1848&bih=1101&dpr=1#imgrc=LhievQITT7P8BM){:class="img-responsive"}
+![asdf](./images/pastitsio_img.jpg){:class="img-responsive"}
 
 
 
