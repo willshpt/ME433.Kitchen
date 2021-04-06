@@ -11,7 +11,7 @@ This is a comment. Note the triple dash to start, but double to end
 Put your name or github username somewhere
 Dimitrios Chamzas
 -->
-![asdf](./images/pastitsio_img.jpg){:class="img-responsive"}
+![asdqwf](/images/pastitsio_img.jpg)
 
 
 
