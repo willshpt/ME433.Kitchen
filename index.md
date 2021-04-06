@@ -119,3 +119,4 @@ Add your recipe to the bulleted list:
 - [Carrot Cake](./recipes/CarrotCake.html)
 - [Sunshot](./recipes/sunshot.html)
 - [Cheese Crackers](./recipes/CheeseCrackers.html)
+- [Sambocade (Medieval Cheesecake)](./recipes/sambocade.html)
