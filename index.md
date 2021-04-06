@@ -114,3 +114,4 @@ Add your recipe to the bulleted list:
 - [Chicken Chili](./recipes/chicken_chili.html)
 - [Pastitsio](./recipes/pastitsio.html)
 - [Honey Soy Glazed Salmon](./recipes/HoneySoyGlazedSalmon.html)
+- [Breaded Chicken Cutlets](./recipes/BreadedChickenCutlets.html)
