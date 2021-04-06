@@ -2,43 +2,25 @@
 layout: default
 ---
 
-<!---
-This is a comment. Note the triple dash to start, but double to end
--->
+## Evan Johns Recipe Confetti Bars
 
-## Nick's Gluten Free Banana Muffins
-<!---
-Put your name or github username somewhere
--->
-My SO prefers to eat gluten free, and I love buying bananas and not eating them before they go bad, so this is what I do with them. Makes 12 muffins.
+Growing up, my sister often made these confetti bars for my family. They were definitely one of our favorite desserts (along with her famous carmelitas).
 
-### Ingredients
-- 2 teaspoons baking powder
-- 1/4 teaspoon baking soda
-- 1/2 teaspoon salt
-- 1/2 teaspoon xanthan gum
-- 1/2 teaspoon cinnamon
-- 1/2 cup almond flour
-- 1/2 cup coconut flour
-- 3/4 cup genral purpose gluten free flour
-- 1/2 cup butter
-- 2/3 cup sugar
-- 2 eggs
-- 4 ripe bananas
-- 1 cup mini chocolate chips
 
 ### Instructions
-1. Preheat oven to 375F. Grease muffin pan.
-2. Mix together the dry ingredients: baking powder, baking soda, xanthum gum, salt, cinnamon, and flours.
-3. Fold in the butter, sugar, and bananas.
-4. Beat in the eggs.
-5. Stir in the chocolate chips.
-6. Add the batter to the pan.
-7. Bake for 25 to 30 minutes.
+½ cup peanut butter smooth
+¼ cup butter
+1 package (10 oz) butterscotch chips
+1 bag (10 oz size) miniature marshmallows coloured/flavoured variety
 
-Enjoy!
-
-<!--
-Keep this link to return to the index
--->
-[back to index](../)
+### Instructions
+1. Cream butter and sugars together.
+2. Mix until smooth, creamy, and light.
+3. Add one egg, one egg yolk, and vanilla extract. Discard the whites of the one egg or use them in this egg wrap recipe.
+4. Add dry ingredients.
+5. Mix until a thick dough forms and then add in the white chocolate chips.
+6. Stir the chips in to finish the Confetti Bars dough.
+7. Press dough into a parchment paper-lined 9×13-inch pan.
+8. Bake until no longer glossy on top and lightly browned at the edges.
+9. (Process photos shown below:) Add marshmallows immediately after removing from the oven, and then return to the oven for 1 and 1/2 minutes.
+10. Remove from the oven, sprinkle on M&M’s, white chocolate chips, and finally sprinkles. Let Confetti Bars sit until firm before cutting.
