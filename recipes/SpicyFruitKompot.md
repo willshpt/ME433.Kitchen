@@ -1,5 +1,3 @@
-_Note: Local copy of my recipe to check markup formatting._
-
 ## Spicy Fruit Kompot
 This is a variation on the traditional Polish kompot (a drink made from dried fruit), though using fresh / frozen ingredients, with a little bit of a kick, perfect for cold Chicago winters.
 
