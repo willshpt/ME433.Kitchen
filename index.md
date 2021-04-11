@@ -123,3 +123,4 @@ Add your recipe to the bulleted list:
 - [Portuguese Bean Soup](./recipes/portuguesebeansoup.html)
 - [Meat Pie](./recipes/meatpie.html)
 - [Messy Spaghetti](./recipes/MessySpaghetti.md)
+- [Spicy Fruit Kompot](./recipes/SpicyFruitKompot.md)
