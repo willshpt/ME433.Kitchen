@@ -126,3 +126,5 @@ Add your recipe to the bulleted list:
 - [Messy Spaghetti](./recipes/MessySpaghetti.md)
 - [Spicy Fruit Kompot](./recipes/SpicyFruitKompot.md)
 - [Ramen and Hotdogs](./recipes/RamenandHotDogs.html)
+- [Quick n' Dirty Red Thai Chicken Curry](./recipes/quicknDirtyRedChknCurry.html)
+
