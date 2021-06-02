@@ -11,7 +11,7 @@ This is a comment. Note the triple dash to start, but double to end
 Fred Carter -> github -> fmc3
 -->
 
-Passed down from graduate student to graduate student with humble beginnings on the back of a thai kitchen red curry paste label. This recipe will not fail to deliver. You can dress it up or dress it down, use it for an impressive date night, or just an ordinary night. Swap out the veggies listed for whatever is in the fidge.  
+Passed down from graduate student to graduate student with humble beginnings on the back of a thai kitchen red curry paste label. This recipe will not fail to deliver. You can dress it up or dress it down, use it for an impressive date night, or just an ordinary night. Swap out the veggies listed for whatever is in the fridge.  
 
 ### Ingredients
 - 4 oz. Thai Kitchen Red Curry paste 
