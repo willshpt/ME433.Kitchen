@@ -127,4 +127,5 @@ Add your recipe to the bulleted list:
 - [Spicy Fruit Kompot](./recipes/SpicyFruitKompot.md)
 - [Ramen and Hotdogs](./recipes/RamenandHotDogs.html)
 - [Quick n' Dirty Red Thai Chicken Curry](./recipes/quicknDirtyRedChknCurry.html)
+- [Egg Benedict](./recipes/Egg_benedict.html)
 
