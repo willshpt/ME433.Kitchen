@@ -131,3 +131,4 @@ Add your recipe to the bulleted list:
 - [Garlic Noodles](./recipes/GarlicNoodles.html)
 - [Spanish Omelette](./recipes/SpanishOmelette.html)
 - [Korean Soft Tofu Soup (Soon Tofu)](./recipes/soontofu.html)
+- [Garlic Bread](./recipes/GarlicBread.html)
