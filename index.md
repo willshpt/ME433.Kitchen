@@ -129,4 +129,4 @@ Add your recipe to the bulleted list:
 - [Quick n' Dirty Red Thai Chicken Curry](./recipes/quicknDirtyRedChknCurry.html)
 - [Egg Benedict](./recipes/Egg_benedict.html)
 - [Garlic Noodles](./recipes/GarlicNoodles.html)
-
+- [Spanish Omelette](./recipes/SpanishOmelette.html)
