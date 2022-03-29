@@ -2,15 +2,22 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+#### Ingredients
+**Graham Cracker Crust**
+1 ½ cups graham cracker crumbs (170g)
+2 Tablespoons sugar
+1 Tablespoon brown sugar (can substitute white)
+7 Tablespoons butter melted
+**Cheesecake**
+32 oz cream cheese² softened to room temperature (910g)
+1 cup sugar (200g)
+⅔ cups sour cream (160g)
+1 ½ teaspoons vanilla extract
+⅛ teaspoon salt
+4 large eggs room temperature, lightly beaten
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
+# Cheesecake Recipe
 
 The test worked
 
