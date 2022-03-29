@@ -27,6 +27,7 @@ Add your recipe to the bulleted list:
 - [Vietnamese pho](./recipes/VietnamesePho.html)
 - [Chocolate Marshmallow Cookies](./recipes/chocolatemarshmallow.html)
 - [Chocolate Chip Cookies](./recipes/chocolatechipcookies.html)
+- [Challah](./recipes/challah.html)
 - [Chinese noodles](./recipes/ChineseNoodles.html)
 - [Sour Cream Noodle Bake](./recipes/noodlebake.html)
 - [dhabeli](./recipes/dhabeli.html)
