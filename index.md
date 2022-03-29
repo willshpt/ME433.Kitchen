@@ -128,4 +128,6 @@ Add your recipe to the bulleted list:
 - [Ramen and Hotdogs](./recipes/RamenandHotDogs.html)
 - [Quick n' Dirty Red Thai Chicken Curry](./recipes/quicknDirtyRedChknCurry.html)
 - [Egg Benedict](./recipes/Egg_benedict.html)
-
+- [Garlic Noodles](./recipes/GarlicNoodles.html)
+- [Spanish Omelette](./recipes/SpanishOmelette.html)
+- [Korean Soft Tofu Soup (Soon Tofu)](./recipes/soontofu.html)
