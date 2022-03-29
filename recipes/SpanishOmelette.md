@@ -28,4 +28,4 @@ The Spanish omelette is a traditional dish from Spain. It is an essential part o
 
 1. Slide on to a plate and cool for 10 mins before serving.
 
-[back to index](./index.html).
+[back to index](../)
