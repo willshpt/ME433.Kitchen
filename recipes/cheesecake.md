@@ -1,9 +1,3 @@
----
-layout: default
----
-
-
-
 # Cheesecake Recipe
 
 ## Ingredients
