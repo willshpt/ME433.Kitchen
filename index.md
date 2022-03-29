@@ -130,3 +130,4 @@ Add your recipe to the bulleted list:
 - [Egg Benedict](./recipes/Egg_benedict.html)
 - [Garlic Noodles](./recipes/GarlicNoodles.html)
 - [Spanish Omelette](./recipes/SpanishOmelette.html)
+- [Korean Soft Tofu Soup (Soon Tofu)](./recipes/soontofu.html)
