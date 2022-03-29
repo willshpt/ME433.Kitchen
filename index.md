@@ -132,3 +132,4 @@ Add your recipe to the bulleted list:
 - [Spanish Omelette](./recipes/SpanishOmelette.html)
 - [Korean Soft Tofu Soup (Soon Tofu)](./recipes/soontofu.html)
 - [Pizza](./recipes/pizza.html)
+- [Garlic Bread](./recipes/GarlicBread.html)
