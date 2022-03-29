@@ -133,3 +133,4 @@ Add your recipe to the bulleted list:
 - [Korean Soft Tofu Soup (Soon Tofu)](./recipes/soontofu.html)
 - [Pizza](./recipes/pizza.html)
 - [Garlic Bread](./recipes/GarlicBread.html)
+- [Gumbo](./recipes/RotisserieChickenGumbo.html)
