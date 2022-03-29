@@ -6,6 +6,7 @@
 *   2 Tablespoons sugar
 *   1 Tablespoon brown sugar (can substitute white)
 *   7 Tablespoons butter melted
+
 **Cheesecake**
 *   32 oz cream cheese² softened to room temperature (910g)
 *   1 cup sugar (200g)
@@ -19,6 +20,7 @@
 *   Preheat oven to 325F (160C).
 *   Prepare Graham Cracker crust first by combining graham cracker crumbs, sugar, and brown sugar, and stirring well. Add melted butter and use a fork to combine ingredients well.
 *   Pour crumbs into a 9” Springform pan and press firmly into the bottom and up the sides of your pan. Set aside.
+
 **Cheesecake**
 *   In the bowl of a stand mixer or in a large bowl (using a hand mixer) add cream cheese and stir until smooth and creamy (don’t over-beat or you’ll incorporate too much air).
 *   Add sugar and stir again until creamy.
