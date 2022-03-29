@@ -136,3 +136,4 @@ Add your recipe to the bulleted list:
 - [Garlic Bread](./recipes/GarlicBread.html)
 - [Gumbo](./recipes/RotisserieChickenGumbo.html)
 - [Oatmeal Chocolate Chip Cookies](./recipes/oatmealchocchipcookies.html)
+- [Taiwanese Noodles](./recipes/TaiwaneseNoodle.html)
