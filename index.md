@@ -140,4 +140,4 @@ Add your recipe to the bulleted list:
 - [Oolong Milk Tea](./recipes/OolongMilkTea.html)
 - [French Fries](./recipes/Fries.html)
 - [Berry Salad](./recipes/BerrySalad.html)
-- [Gobi Manchurian] (./recipes/GobiManchurian.html)
+- [Gobi Manchurian](./recipes/GobiManchurian.html)
