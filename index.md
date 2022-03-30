@@ -138,4 +138,4 @@ Add your recipe to the bulleted list:
 - [Oatmeal Chocolate Chip Cookies](./recipes/oatmealchocchipcookies.html)
 - [Taiwanese Noodles](./recipes/TaiwaneseNoodle.html)
 - [Oolong Milk Tea](./recipes/OolongMilkTea.html)
-- [Fries](./recipes/Fries.html)
+- [French Fries](./recipes/Fries.html)
