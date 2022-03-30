@@ -79,6 +79,7 @@ Add your recipe to the bulleted list:
 - [Focaccia](./recipes/focaccia.html)
 - [Better Banana Pancakes](./recipes/betterbananapancakes.html)
 - [Rice](./recipes/rice.html)
+- [Rice and Beans](./recipes/RiceAndBeans.html)
 - [Trinidad Kurma](./recipes/trinidadkurma.html)
 - [Stuffed French Toast](./recipes/frenchtoast.html)
 - [Masala Chai](./recipes/MasalaChai.html)
