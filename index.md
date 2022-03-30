@@ -142,4 +142,4 @@ Add your recipe to the bulleted list:
 - [French Fries](./recipes/Fries.html)
 - [Berry Salad](./recipes/BerrySalad.html)
 - [Gobi Manchurian](./recipes/GobiManchurian.html)
-- [Chicken Piccata](./recipes/Chicken Piccata.html)
+- [Chicken Piccata](./recipes/ChickenPiccata.html)
