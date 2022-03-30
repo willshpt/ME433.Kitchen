@@ -29,7 +29,7 @@ Fudgy chocolate cookies. Makes 20 small cookies or 12 large cookies.
 
 2. In another bowl, combine the flour, baking powder, and salt. Stir the dry ingredients into the wet mixture just until a dough forms (do not over beat). Cover bowl with wrap and refrigerate for at least 4 hours or overnight.
 
-3. When ready to bake, preheat oven to 350°F | 175°C. Line 2 cookie sheets or baking trays with parchment paper (baking paper). Roll 1 tablespoonful of dough into balls for smaller cookies, or 2 tablespoonfuls for larger cookies.
+3. When ready to bake, preheat oven to 350°F (175°C). Line 2 cookie sheets or baking trays with parchment paper (baking paper). Roll 1 tablespoonful of dough into balls for smaller cookies, or 2 tablespoonfuls for larger cookies.
 
 4. Add the confectioners (icing) sugar to a smaller bowl. Generously and evenly coat each ball of dough in confectioners' sugar and place onto prepared cookie sheets.
 
