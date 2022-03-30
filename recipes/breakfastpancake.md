@@ -27,12 +27,12 @@ Autumn is a world-renowned chef*, and this "recipe" is one of her clients' all-t
 2. Heat pan on the stove and add some butter or oil
 3. Once pan is hot, pour the mixture into the pan and spread flat with a spoon or spatula
 4. Cook until underside is firm enough to flip, or longer for a crispier pancake
-5. Flip the pancake
+5. Flip the pancake and let that side cook too
 6. Transfer the pancake to a plate
 7. Top with more cheese, butter, or hot sauce if desired
 8. Take a photo of your pancake
 9. Eat the pancake
-10. Send the photo of your pancake and your thoughts on how it came out to autumnbasinger@u.northwestern.edu
+10. Send the photo of your pancake and your thoughts on how it came out to autumnbasinger@u.northwestern.edu (or just tell me in class)
 
 :)
 
