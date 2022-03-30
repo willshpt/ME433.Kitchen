@@ -26,6 +26,7 @@ Add your recipe to the bulleted list:
 - [Milk Bread](./recipes/oyakodon.html)
 - [Black Bean Dip](./recipes/blackbean_dip.html)
 - [Vietnamese pho](./recipes/VietnamesePho.html)
+- [Chicharron Tacos](./recipes/chicharron_tacos.html)
 - [Chocolate Marshmallow Cookies](./recipes/chocolatemarshmallow.html)
 - [Chocolate Chip Cookies](./recipes/chocolatechipcookies.html)
 - [Chocolate Crinkle Cookies](./recipes/ChocolateCrinkleCookies.html)
