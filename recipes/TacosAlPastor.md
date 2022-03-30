@@ -6,6 +6,7 @@ layout: default
 By: Marco Morales
 
 Cooking time ~ 8 minutes
+
 Prep time ~ 2 hours and 15 minutes
 
 ### Ingredients
