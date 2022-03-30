@@ -149,3 +149,4 @@ Add your recipe to the bulleted list:
 - [Pizza Sauce](./recipes/PizzaSauce.html)
 - [Banana Pudding](./recipes/Banana_Pudding.html)
 - [Spaghetti Carbonara](./recipes/SpaghettiCarbonara.html)
+- [Armenian Lahmajun](./recipes/Lahmajun.html)

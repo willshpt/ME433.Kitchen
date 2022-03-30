@@ -13,7 +13,7 @@ username: bbenicia
 ### Ingredients
 
 - 2 Roma Tomatos 
-- 2-4 jalapenos (depending how spicy you want it)
+- 2-4 jalapenos (_depending how spicy you want it_)
 - 1/6 of an onion 
 - 1 clove of garlic 
 - 3 tbsp water
@@ -21,7 +21,7 @@ username: bbenicia
 - Knorr Chicken Flavor Bouillon to taste 
 - oil for cooking 
 - tortillas
-- Avocada Salsa (recipe not included) 
+- Avocada Salsa (_recipe not included_) 
 - chicharron
 
 
@@ -29,7 +29,7 @@ username: bbenicia
 
 1.  Heat up pan under medium heat
 2.  Add oil to pan wait to heat up
-3.  Add tomatos , jalapenos, and onion to hot oil (careful they hiss)
+3.  Add tomatos , jalapenos, and onion to hot oil (_careful they hiss!_)
 4.  Stir around and let them get toasty and charred
 5.  When ingrediants are about 65 % charred , add the garlic
 6.  Wait until all ingrdaints are toasty and charred, stir occasionally and flip along sides
