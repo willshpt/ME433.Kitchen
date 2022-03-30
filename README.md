@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Paneer Burji
 
-You can use the [editor on GitHub](https://github.com/ndm736/ME433.Kitchen/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This recipe is for making a Paneer Burji - an indian dish
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Ingredients
+1) Tomato
+2) Onion
+3) Chilli powder, Turmeric, Garam Masala, Salt
+4) Paneer
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Instructions
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ndm736/ME433.Kitchen/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1) Cut one tomato and two onions
+2) Heat a closed vessel and add oil
+3) Add coriander and pepper
+4) Add onions and tomatoes
+5) Add Chilli, Turmeric and Garam Masala, Salt
+6) Stir the ingredients for a few minutes and let it cook for a few minutes by covering it with lid
+7) Take paneer and break it into small pieces, add it to vessel
+8) Stir everything in the vessel and put a lid for a few minutes
+9) If it is too dry, add some water and cook for some more time
+10) Serve
