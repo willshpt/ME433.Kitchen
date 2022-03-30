@@ -139,3 +139,4 @@ Add your recipe to the bulleted list:
 - [Taiwanese Noodles](./recipes/TaiwaneseNoodle.html)
 - [Oolong Milk Tea](./recipes/OolongMilkTea.html)
 - [French Fries](./recipes/Fries.html)
+- [Berry Salad](./recipes/BerrySalad.html)
