@@ -6,11 +6,11 @@ layout: default
 This is a comment. Note the triple dash to start, but double to end
 -->
 
-## Winston Zhao's Chicke Sheet Pan Recipe
+## Winston Zhao's Chicken Sheet Pan Recipe
 <!---
 Put your name or github username somewhere
 -->
-A batch of vegetarian chilli, serve with sour cream, lime wedges and tortillas! 
+We’re back at it with the easy sheet pan dinners, and tonight we’re dressing up basic cauliflower and chicken with our latest favorite secret ingredient in this za’atar chicken sheet pan dinner.
 
 ### Ingredients
 - Chicken thighs
