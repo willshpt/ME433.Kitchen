@@ -150,3 +150,4 @@ Add your recipe to the bulleted list:
 - [Banana Pudding](./recipes/Banana_Pudding.html)
 - [Spaghetti Carbonara](./recipes/SpaghettiCarbonara.html)
 - [Armenian Lahmajun](./recipes/Lahmajun.html)
+- [Chicken Sheet Pan](./recipes/chickensheetpan.html)
