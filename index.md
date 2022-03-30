@@ -146,4 +146,4 @@ Add your recipe to the bulleted list:
 - [Gobi Manchurian](./recipes/GobiManchurian.html)
 - [Chicken Piccata](./recipes/ChickenPiccata.html)
 - [Pizza Sauce](./recipes/PizzaSauce.html)
-- [Banana Muffins](./recipes/Banana_Pudding.html)
+- [Banana Pudding](./recipes/Banana_Pudding.html)
