@@ -148,3 +148,4 @@ Add your recipe to the bulleted list:
 - [Chicken Piccata](./recipes/ChickenPiccata.html)
 - [Pizza Sauce](./recipes/PizzaSauce.html)
 - [Banana Pudding](./recipes/Banana_Pudding.html)
+- [Spaghetti Carbonara](./recipes/SpaghettiCarbonara.html)
