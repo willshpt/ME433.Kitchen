@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Paneer Burji
 
 This recipe is for making a Paneer Burji - an indian dish
@@ -21,3 +25,5 @@ This recipe is for making a Paneer Burji - an indian dish
 8) Stir everything in the vessel and put a lid for a few minutes
 9) If it is too dry, add some water and cook for some more time
 10) Serve
+
+[back to index](../)
