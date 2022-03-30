@@ -6,17 +6,17 @@ layout: default
 
 
 ### Ingredients
--4 skinless, boneless chicken breasts 
--1/2 teaspoon salt
--1/4 teaspoon black pepper 
--1 tablespoon olive oil
--1 cup chicken broth
--1/4 cup fresh lemon juice
--2 tablespoons butter
--2 tablespoons brined capers, drained
--2 tablespoons chopped fresh flat-leaf parsley 
--hot cooked pasta or rice 
--lemon slices 
+- 4 skinless, boneless chicken breasts 
+- 1/2 teaspoon salt
+- 1/4 teaspoon black pepper 
+- 1 tablespoon olive oil
+- 1 cup chicken broth
+- 1/4 cup fresh lemon juice
+- 2 tablespoons butter
+- 2 tablespoons brined capers, drained
+- 2 tablespoons chopped fresh flat-leaf parsley 
+- hot cooked pasta or rice 
+- lemon slices 
 
 ## Prep
 1. Season the chicken with salt and pepper. 
