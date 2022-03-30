@@ -6,7 +6,7 @@ layout: default
 <!---
 github user: cpurnama55
 -->
-I like pasta a lot because of how simple it can be to make. I spaghetti carbonara is a pasta dish that takes a little more work than a usual pasta dish, but tastes amazing.
+I like pasta a lot because of how simple it can be to make. I think spaghetti carbonara is a pasta dish that takes a little more work than a usual pasta dish, but tastes amazing.
 
 ### Ingredients
 - Salt
