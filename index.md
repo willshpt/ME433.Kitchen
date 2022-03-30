@@ -151,3 +151,4 @@ Add your recipe to the bulleted list:
 - [Spaghetti Carbonara](./recipes/SpaghettiCarbonara.html)
 - [Armenian Lahmajun](./recipes/Lahmajun.html)
 - [Chicken Sheet Pan](./recipes/Chicken_Sheet_Pan.html)
+- [Al Pastor Tacos](./recipes/TacosAlPastor.html)

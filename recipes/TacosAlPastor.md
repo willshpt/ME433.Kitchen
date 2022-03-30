@@ -5,34 +5,28 @@ layout: default
 ## Tacos Al Pastor
 By: Marco Morales
 
-My SO prefers to eat gluten free, and I love buying bananas and not eating them before they go bad, so this is what I do with them. Makes 12 muffins.
+Cooking time ~ 8 minutes
+Prep time ~ 2 hours and 15 minutes
 
 ### Ingredients
 - 2 pounds of pork shoulder
 - 1 cup of pineapple chunks
-- 1/2 teaspoon salt
-
-- 1/2 teaspoon salt
-- 1/2 teaspoon xanthan gum
-- 1/2 teaspoon cinnamon
-- 1/2 cup almond flour
-- 1/2 cup coconut flour
-- 3/4 cup genral purpose gluten free flour
-- 1/2 cup butter
-- 2/3 cup sugar
-- 2 eggs
-- 4 ripe bananas
-- 1 cup mini chocolate chips
+- 1/2 cup of onion
+- 3 cloves of minced garlic
+- 1 teaspoon of kosher salt
+- 1 teaspoon of dried oregano
+- 1 teaspoon black pepper
+- 1/2 cup of vinegar
+- 1 tablespoon of achiote paste
+- 1 can of chipotle chilies in adobo
 
 ### Instructions
-1. Preheat oven to 375F. Grease muffin pan.
-2. Mix together the dry ingredients: baking powder, baking soda, xanthum gum, salt, cinnamon, and flours.
-3. Fold in the butter, sugar, and bananas.
-4. Beat in the eggs.
-5. Stir in the chocolate chips.
-6. Add the batter to the pan.
-7. Bake for 25 to 30 minutes.
-
-Don't forget the salsa, cilantro, or onions!
+1. Cut the pork shoulder into thin slices and place into a large bowl and then set aside.
+2. Pour the pineapple chunks, onion, chipotle chilies in adobo and achiote paste into a blender and blend until smooth.
+3. To the mixture, add the garlic, salt, oregano, black pepper, and vinegar. Mix until smooth.
+4. Pour the marinade on the sliced pork shoulder and let it marinate for at least 2 hours in the fridge.
+5. Set a pan on the stove on high heat.
+6. Place the marinated pork shoulder pieces onto the hot pan. Cook the slice for about 8 minutes and flip the piece halfway through.
+7. Place the Al Pastor on two tortillas and add salsa, cilantro, salsa, or lime. Enjoy!
 
 [back to index](../)
