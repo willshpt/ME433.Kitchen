@@ -143,3 +143,4 @@ Add your recipe to the bulleted list:
 - [Berry Salad](./recipes/BerrySalad.html)
 - [Gobi Manchurian](./recipes/GobiManchurian.html)
 - [Chicken Piccata](./recipes/ChickenPiccata.html)
+- [Pizza Sauce](./recipes/PizzaSauce.html)
