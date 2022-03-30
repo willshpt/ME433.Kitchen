@@ -2,10 +2,10 @@
 layout: default
 ---
 
-##Angel's chicken Piccata crockpot recipe 
+## Angel's chicken Piccata crockpot recipe 
 
 
-###Ingredients
+### Ingredients
 -4 skinless, boneless chicken breasts 
 -1/2 teaspoon salt
 -1/4 teaspoon black pepper 
@@ -18,7 +18,7 @@ layout: default
 -hot cooked pasta or rice 
 -lemon slices 
 
-##Prep
+## Prep
 1. Season the chicken with salt and pepper. 
 2. Select SAUTE on the Instant Pot and adjust to NORMAL. 
 3. Heat oil in the pot,.
@@ -26,7 +26,7 @@ layout: default
 5. Add broth, press CANCEL, and secure the lid on the pot. 
 6. Close the pressure-release valve. 
 
-##Cook 
+## Cook 
 1. Select MANUAL and cook at high pressure for 3 minutes. 
 2. When cooking is complete, use a quick release to depressurize. 
 3. Press CANCEL. 
@@ -37,7 +37,7 @@ layout: default
 8. Bring to a simmer and cook for 5 minutes to reduce. 
 9. Press CANCEL. 
 
-##Serve
+## Serve
 1. Pour sauce over chicken. 
 2. Serve over pasta or rice. 
 3. Serve with lemon slices.
