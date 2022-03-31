@@ -162,7 +162,11 @@ Add your recipe to the bulleted list:
 - [Millionaire's Shortbread](./recipes/MillionairesShortbread.html)
 - [Sarma](./recipes/sarma.html)
 - [Ramen](./recipes/ramen.html)
+<<<<<<< HEAD
 - [Scrambled Eggs](./recipes/Scarmbled_Eggs.html)
  HEAD
  b78e068ee5e1c17ec8dfc0e593ee63d3e675a24e
  a5f4385af9e6c59d0eb19754dd435324171e9f6b
+=======
+- [Stinky Tofu](./recipes/StinkyTofu.html)
+>>>>>>> 4d46fdaee24c1b9fad603065dc323478793c2dd6
