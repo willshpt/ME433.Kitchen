@@ -155,8 +155,5 @@ Add your recipe to the bulleted list:
 - [Al Pastor Tacos](./recipes/TacosAlPastor.html)
 - [Paneer Burji](./recipes/PannerBurji.html)
 - [Salchipapa](./recipes/Salchipapa.html)
-<<<<<<< HEAD
 - [Pork Dumplings](./recipes/PorkDumplings.html)
-=======
->>>>>>> 30f310f354b74b42d3881d47fc4992712a244d5b
 - [Bloody Jack](./recipes/BloodyJack.html)

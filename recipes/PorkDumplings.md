@@ -1,4 +1,11 @@
-﻿# Pork Dumplings
+﻿---
+layout: default
+---
+
+# Pork Dumplings
+<!---
+Name: Youhua Lu
+-->
 These tasty treats make a perfect appetizer or you can serve them as a main dish. For a main dish count on about 15 dumplings per person. Serve with hoisin sauce, hot Chinese-style mustard and toasted sesame seeds.
 [Link to recipe resource](https://www.allrecipes.com/recipe/14759/pork-dumplings/).
 
@@ -26,3 +33,7 @@ Steam dumplings in a covered bamboo or metal steamer for about 15 to 20 minutes.
 
 Enjoy!! 
 
+<!--
+Keep this link to return to the index
+-->
+[back to index](../)
