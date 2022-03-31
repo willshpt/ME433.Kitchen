@@ -5,6 +5,8 @@ layout: default
 
 ## Yujui Chen's Stinky Tofu Recipe:
 
+Stinky tofu is one of the most popular Taiwan cuisine in night market and it might not sound like the most appetising food, but don't be put off by the name! It's true that it does have an intense aroma and a corresponding depth of flavour, but it worth a try!
+
 ### Ingredients: 
 
 - 14 oz of firm tofu, cubed 
