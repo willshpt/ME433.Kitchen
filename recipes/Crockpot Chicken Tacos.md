@@ -2,7 +2,7 @@
 
 ## Ingredients & Materials
 
-* 4 Chicken Breast
+* 4 Chicken Breasts
 * 1 Taco Seasoning Packet
 * 1 Jar of Red Salsa
 * The Juice of 2 Limes
