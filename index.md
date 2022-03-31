@@ -160,6 +160,15 @@ Add your recipe to the bulleted list:
 - [Tortilla Pizza](./recipes/TortillaPizza.html)
 - [Cilantro Lime Rice](./recipes/CilantroLimeRice.html)
 - [Millionaire's Shortbread](./recipes/MillionairesShortbread.html)
+- [Scrambled Eggs](./recipes/Scarmbled_Eggs.html)
 - [Sarma](./recipes/sarma.html)
 - [Ramen](./recipes/ramen.html)
+ HEAD
 - [Lemon Butter Scallops](./recipes/lemonbutterscallops.html)
+
+ HEAD
+ b78e068ee5e1c17ec8dfc0e593ee63d3e675a24e
+ a5f4385af9e6c59d0eb19754dd435324171e9f6b
+- [Stinky Tofu](./recipes/StinkyTofu.html)
+4d46fdaee24c1b9fad603065dc323478793c2dd6
+- [Cowboy Caviar](./recipes/cowboycaviar.html) 02c169ebe6246df831d0b090e057d750112eb725
