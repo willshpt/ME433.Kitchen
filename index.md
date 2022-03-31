@@ -154,6 +154,7 @@ Add your recipe to the bulleted list:
 - [Chicken Sheet Pan](./recipes/Chicken_Sheet_Pan.html)
 - [Al Pastor Tacos](./recipes/TacosAlPastor.html)
 - [Paneer Burji](./recipes/PannerBurji.html)
+- [Scrambled Eggs](./recipes/Scarmbled_Eggs.md)
 - [Salchipapa](./recipes/Salchipapa.html)
 - [Pork Dumplings](./recipes/PorkDumplings.html)
 - [Bloody Jack](./recipes/BloodyJack.html)
