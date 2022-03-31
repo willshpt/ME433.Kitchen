@@ -1,4 +1,4 @@
----
+--
 layout: default
 ---
 
@@ -12,7 +12,7 @@ This is a recipe I have made for many years, edited, and lived off through under
 This is a recipe I have made for many years, edited, and lived off through undergrad. It is delicious and can be served as a main or side dish, or as part of tacos, etc. You can also make the beans by soaking them the night before and cooking them in a pot if you don't have a pressure cooker. It can also easily be made vegan or vegetarian.
 Keeps well in the fridge!
 
-##Ingrediants
+## Ingrediants
 - 1 lb dry black beans
 - 3 cups of chicken stock
 - 1 sweet onion, diced
@@ -32,7 +32,7 @@ Keeps well in the fridge!
 - 1/4 teaspoon cinnamon (optional, but I never leave it out)
 - cheese, avocado, cilantro, hot sauce, etc. for topping
 
-##Instructions
+## Instructions
 1. In the bottom of an electric pressure cooker, sautee the onion, celery, and garlic until fragrant and onion is softened around the edges
 2. Add the rest of the vegetables and continue to sautee until just softened.
 3. Once the onion is translucent and very soft, add all of the spices and beans, sautee for just a minute more to coat everything.
