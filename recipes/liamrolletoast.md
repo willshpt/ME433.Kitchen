@@ -1,4 +1,3 @@
-uh maybe this?
 # Liam's French Toast
 This was my breakfast this morning, don't judge me.
 ## Ingredents
