@@ -26,7 +26,7 @@ Kojo Welbeck (kjwelbeck3)
 4. Bake in the preheated oven until cheese is melted, about 5 minutes. Sprinkle oregano over cheese. Slice pizza into wedges using a pizza cutter.
 
 
-Bon Apetit!
+Bon Appetit!
 
 <!--
 Keep this link to return to the index
