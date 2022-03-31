@@ -168,3 +168,4 @@ Add your recipe to the bulleted list:
  a5f4385af9e6c59d0eb19754dd435324171e9f6b
 - [Stinky Tofu](./recipes/StinkyTofu.html)
 4d46fdaee24c1b9fad603065dc323478793c2dd6
+- [Cowboy Caviar](./recipes/cowboycaviar.html)
