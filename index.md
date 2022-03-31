@@ -183,3 +183,4 @@ Add your recipe to the bulleted list:
 - [Pasta Alla Puttanesca](./recipes/PastaAllaPuttanesca.md)
 - [Spanish Rice](./recipes/spanishrice.md)
 - [Arepas](./recipes/arepas.md)
+- [Sushi](./recipes/Sushi.md)
