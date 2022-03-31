@@ -174,6 +174,7 @@ Add your recipe to the bulleted list:
 - [Cowboy Caviar](./recipes/cowboycaviar.html)
 - [Lemon Butter Scallops](./recipes/lemonbutterscallops.html)
 - [Stinky Tofu](./recipes/StinkyTofu.html)
+- [Roast beef and PIC32s](./recipes/RoastBeefPIC32s.html)
 - [Cowboy Caviar](./recipes/cowboycaviar.html)
 - [Chicken & Rice](./recipes/ChickenRice.html)
 - [Simple Veggie Pizza](./recipes/SimpleVeggiePizza.md)
