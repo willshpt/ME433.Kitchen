@@ -11,7 +11,6 @@ Eggs are always a treat
 - Sea salt and fresh black pepper
 - Chopped fresh chives, optional, for garnish
 
-
 ### Procedure
 1. Crack the eggs into a medium bowl and add the milk or water. Whisk until smooth and combined, with no streaks of egg white remaining.
 
