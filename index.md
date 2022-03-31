@@ -171,3 +171,4 @@ Add your recipe to the bulleted list:
 - [Stinky Tofu](./recipes/StinkyTofu.html)
 - [Cowboy Caviar](./recipes/cowboycaviar.html)
 - [Chicken & Rice](./recipes/ChickenRice.html)
+- [Simple Veggie Pizza](./recipes/SimpleVeggiePizza.md)
