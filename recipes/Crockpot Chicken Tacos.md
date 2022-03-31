@@ -12,7 +12,7 @@ You will need a crockpot and either two forks or a hand mixer.
 ## Instructions
 1. First put all of the chicken breasts into the crockpot, uncut.
 2. Coat the chicken breasts with the taco seasoning packet. Cover both sides evenly. 
-3. Pour the salsa and lime juice over the tacos, and use tongs to coat the breasts evenly. 
+3. Pour the salsa and lime juice over the tacos, and use tongs to again coat both sides of the breasts evenly. 
 4. Cook the chicken for 8 hours on low setting. 
 5. When ready, use a hand mixer on low speed to shred the chicken breasts. This can also be done with two forks. 
 6. Enjoy!
