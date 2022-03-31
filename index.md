@@ -162,3 +162,4 @@ Add your recipe to the bulleted list:
 - [Millionaire's Shortbread](./recipes/MillionairesShortbread.html)
 - [Sarma](./recipes/sarma.html)
 - [Ramen](./recipes/ramen.html)
+- [Stinky Tofu](./recipes/StinkyTofu.html)
