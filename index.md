@@ -162,3 +162,4 @@ Add your recipe to the bulleted list:
 - [Millionaire's Shortbread](./recipes/MillionairesShortbread.html)
 - [Sarma](./recipes/sarma.html)
 - [Ramen](./recipes/ramen.html)
+- [Lemon Butter Scallops](./recipes/lemonbutterscallops.html)
