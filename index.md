@@ -180,4 +180,4 @@ Add your recipe to the bulleted list:
 - [Simple Veggie Pizza](./recipes/SimpleVeggiePizza.md)
 - [Liam's French Toast](recipes/liamrolletoast.md)
 - [Pasta Alla Puttanesca](./recipes/PastaAllaPuttanesca.md)
-
+- [Spanish Rice](./recipes/spanishrice.md)
