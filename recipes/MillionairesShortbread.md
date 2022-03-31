@@ -6,7 +6,7 @@ layout: default
 This is a comment. Note the triple dash to start, but double to end
 -->
 
-## Cody's (@codynichoson) Millionaire's Shortbread
+## Cody Nichoson's (@codynichoson) Millionaire's Shortbread
 <!---
 Put your name or github username somewhere
 -->
