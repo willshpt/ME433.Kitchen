@@ -154,7 +154,6 @@ Add your recipe to the bulleted list:
 - [Chicken Sheet Pan](./recipes/Chicken_Sheet_Pan.html)
 - [Al Pastor Tacos](./recipes/TacosAlPastor.html)
 - [Paneer Burji](./recipes/PannerBurji.html)
-- [Scrambled Eggs](./recipes/Scarmbled_Eggs.html)
 - [Salchipapa](./recipes/Salchipapa.html)
 - [Pork Dumplings](./recipes/PorkDumplings.html)
 - [Bloody Jack](./recipes/BloodyJack.html)
@@ -164,4 +163,5 @@ Add your recipe to the bulleted list:
  HEAD
 - [Sarma](./recipes/sarma.html)
 - [Ramen](./recipes/ramen.html)
+- [Scrambled Eggs](./recipes/Scarmbled_Eggs.html)
  b78e068ee5e1c17ec8dfc0e593ee63d3e675a24e
