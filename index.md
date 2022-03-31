@@ -166,3 +166,6 @@ Add your recipe to the bulleted list:
 - [Brownies](./recipes/Brownies.html)
 - [Stinky Tofu](./recipes/StinkyTofu.html)
 - [Cowboy Caviar](./recipes/cowboycaviar.html)
+- [Lemon Butter Scallops](./recipes/lemonbutterscallops.html)
+- [Stinky Tofu](./recipes/StinkyTofu.html)
+- [Cowboy Caviar](./recipes/cowboycaviar.html)
