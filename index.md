@@ -169,3 +169,4 @@ Add your recipe to the bulleted list:
 - [Lemon Butter Scallops](./recipes/lemonbutterscallops.html)
 - [Stinky Tofu](./recipes/StinkyTofu.html)
 - [Cowboy Caviar](./recipes/cowboycaviar.html)
+- [Chicken & Rice](./recipes/ChickenRice.html)
