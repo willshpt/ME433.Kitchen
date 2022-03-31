@@ -184,3 +184,4 @@ Add your recipe to the bulleted list:
 - [Spanish Rice](./recipes/spanishrice.md)
 - [Arepas](./recipes/arepas.md)
 - [Sushi](./recipes/Sushi.md)
+- [Sweet Crepes](./recipes/Sweet Crepes.md)
