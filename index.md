@@ -137,6 +137,8 @@ Add your recipe to the bulleted list:
 - [Ramen and Hotdogs](./recipes/RamenandHotDogs.html)
 - [Quick n' Dirty Red Thai Chicken Curry](./recipes/quicknDirtyRedChknCurry.html)
 - [Egg Benedict](./recipes/Egg_benedict.html)
+- [Pasta Alla Puttanesca](./recipes/PastaAllaPuttanesca.md)
+
 - [Garlic Noodles](./recipes/GarlicNoodles.html)
 - [Spanish Omelette](./recipes/SpanishOmelette.html)
 - [Korean Soft Tofu Soup (Soon Tofu)](./recipes/soontofu.html)
@@ -174,3 +176,4 @@ Add your recipe to the bulleted list:
 - [Cowboy Caviar](./recipes/cowboycaviar.html)
 - [Chicken & Rice](./recipes/ChickenRice.html)
 - [Simple Veggie Pizza](./recipes/SimpleVeggiePizza.md)
+- [Liam's French Toast](recipes/liamrolletoast.md)
