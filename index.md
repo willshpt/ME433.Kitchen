@@ -174,3 +174,4 @@ Add your recipe to the bulleted list:
 - [Cowboy Caviar](./recipes/cowboycaviar.html)
 - [Chicken & Rice](./recipes/ChickenRice.html)
 - [Simple Veggie Pizza](./recipes/SimpleVeggiePizza.md)
+- [Liam's French Toast](recipes/liamrolletoast.md)
