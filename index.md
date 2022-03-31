@@ -22,6 +22,7 @@ Add your recipe to the bulleted list:
 - [Pad Thai](./recipes/PadThai.html)
 - [Gyudon](./recipes/gyudon.html)
 - [PB&J](./recipes/PB&J.html)
+- [Black Beans] (./recipes/blackbeans.html)
 - [Green Eggs and Ham](./recipes/greeneggs.html)
 - [kuih bahulu](./recipes/kuihbahulu.html)
 - [Milk Cake](./recipes/milkcake.html)
