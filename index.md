@@ -160,7 +160,5 @@ Add your recipe to the bulleted list:
 - [Tortilla Pizza](./recipes/TortillaPizza.html)
 - [Cilantro Lime Rice](./recipes/CilantroLimeRice.html)
 - [Millionaire's Shortbread](./recipes/MillionairesShortbread.html)
- HEAD
 - [Sarma](./recipes/sarma.html)
 - [Ramen](./recipes/ramen.html)
- b78e068ee5e1c17ec8dfc0e593ee63d3e675a24e
