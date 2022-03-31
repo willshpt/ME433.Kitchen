@@ -160,7 +160,9 @@ Add your recipe to the bulleted list:
 - [Tortilla Pizza](./recipes/TortillaPizza.html)
 - [Cilantro Lime Rice](./recipes/CilantroLimeRice.html)
 - [Millionaire's Shortbread](./recipes/MillionairesShortbread.html)
+- [Scrambled Eggs](./recipes/Scarmbled_Eggs.html)
 - [Sarma](./recipes/sarma.html)
 - [Ramen](./recipes/ramen.html)
 - [Brownies](./recipes/Brownies.html)
-
+- [Stinky Tofu](./recipes/StinkyTofu.html)
+- [Cowboy Caviar](./recipes/cowboycaviar.html)
