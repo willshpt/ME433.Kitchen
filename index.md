@@ -157,3 +157,4 @@ Add your recipe to the bulleted list:
 - [Salchipapa](./recipes/Salchipapa.html)
 - [Pork Dumplings](./recipes/PorkDumplings.html)
 - [Bloody Jack](./recipes/BloodyJack.html)
+- [Tortilla Pizza](./recipes/TortillaPizza.html)
