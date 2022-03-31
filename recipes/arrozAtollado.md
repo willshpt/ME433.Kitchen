@@ -6,7 +6,7 @@ layout: default
 github username: na23730
 -->
 
-## Nico's arroz con atollado! 
+## Nico's arroz atollado! 
 
 Try this Colombian traditional rice meal I have been eating my entire life. We don't cook with measurements so these are rough estimates on quantities. Enjoy!
 
