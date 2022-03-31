@@ -182,3 +182,4 @@ Add your recipe to the bulleted list:
 - [Liam's French Toast](recipes/liamrolletoast.md)
 - [Pasta Alla Puttanesca](./recipes/PastaAllaPuttanesca.md)
 - [Spanish Rice](./recipes/spanishrice.md)
+- [Arepas](./recipes/arepas.md)
