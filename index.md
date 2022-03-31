@@ -96,6 +96,7 @@ Add your recipe to the bulleted list:
 - [Sheet Pan Chicken](./recipes/sheetpanchicken.html)
 - [Steamed Egg](./recipes/steamedegg.html)
 - [Tiramisu.md](./recipes/Tiramisu.html)
+- [Good Instant Ramen](./recipes/instantramen.html)
 - [Mac and Cheese](./recipes/MacandCheeseGodson.html)
 - [Gratin Savoyard](./recipes/GratinSavoyard.html)
 - [Steak](./recipes/Steak.html)
