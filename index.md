@@ -185,3 +185,4 @@ Add your recipe to the bulleted list:
 - [Arepas](./recipes/arepas.md)
 - [Sushi](./recipes/Sushi.md)
 - [Sweet Crepes](./recipes/SweetCrepes.md)
+- [Chicken Corn Noodle Soup](./recipes/ChickenCornNoodleSoup.md)
