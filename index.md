@@ -186,3 +186,4 @@ Add your recipe to the bulleted list:
 - [Sushi](./recipes/Sushi.md)
 - [Sweet Crepes](./recipes/SweetCrepes.md)
 - [Chicken Corn Noodle Soup](./recipes/ChickenCornNoodleSoup.md)
+- [Salsa de Chile de Arbol](./recipes/SalsadeChiledeArbol.md)
