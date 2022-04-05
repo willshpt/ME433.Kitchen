@@ -188,4 +188,4 @@ Add your recipe to the bulleted list:
 - [Sweet Crepes](./recipes/SweetCrepes.md)
 - [Chicken Corn Noodle Soup](./recipes/ChickenCornNoodleSoup.md)
 - [Salsa de Chile de Arbol](./recipes/SalsadeChiledeArbol.md)
-- [Lemony Asparagus Pasta](./recipes/Lemony Asparagus Pasta.md)
+- [Lemony Asparagus Pasta](./recipes/LemonyAsparagusPasta.md)
