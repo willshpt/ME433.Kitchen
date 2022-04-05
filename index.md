@@ -14,6 +14,7 @@ Add your recipe to the bulleted list:
 - [Banana Muffins](./recipes/bananamuffins.html) <!--- The link ends in html even though the file ends in .md -->
 - [The Undergrad Skillet](./recipes/undergradSkillet.html)
 - [Colombian Arroz Attollado](./recipes/arrozAtollado.html)
+- [JMLs Oatmeal](./recipes/JMLoatmeal.html)
 - [Jelke Tacos] (./recipes/jelkeTacos.html)
 - [Crockpot Chicken Tacos](./recipes/CrockpotChickenTacos.html)
 - [Interpretive Spinach Breakfast Pancakes](./recipes/breakfastpancake.html)
@@ -187,3 +188,4 @@ Add your recipe to the bulleted list:
 - [Sweet Crepes](./recipes/SweetCrepes.md)
 - [Chicken Corn Noodle Soup](./recipes/ChickenCornNoodleSoup.md)
 - [Salsa de Chile de Arbol](./recipes/SalsadeChiledeArbol.md)
+- [Lemony Asparagus Pasta](./recipes/LemonyAsparagusPasta.md)
