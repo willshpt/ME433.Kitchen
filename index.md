@@ -189,3 +189,4 @@ Add your recipe to the bulleted list:
 - [Chicken Corn Noodle Soup](./recipes/ChickenCornNoodleSoup.md)
 - [Salsa de Chile de Arbol](./recipes/SalsadeChiledeArbol.md)
 - [Lemony Asparagus Pasta](./recipes/LemonyAsparagusPasta.md)
+- [New York Cheesecake](./recipes/NewYorkCheesecake.md)
