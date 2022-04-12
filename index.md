@@ -140,7 +140,7 @@ Add your recipe to the bulleted list:
 - [Ramen and Hotdogs](./recipes/RamenandHotDogs.html)
 - [Quick n' Dirty Red Thai Chicken Curry](./recipes/quicknDirtyRedChknCurry.html)
 - [Egg Benedict](./recipes/Egg_benedict.html)
-
+- [Fried Cabbage and Bacon](./recipes/Fried%20Cabbage%20and%20Bacon.md)
 
 - [Garlic Noodles](./recipes/GarlicNoodles.html)
 - [Spanish Omelette](./recipes/SpanishOmelette.html)
