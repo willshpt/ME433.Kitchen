@@ -12,6 +12,7 @@ An easy healthy recipe to cook when you're back late and need something quick an
 - Soy Sauce
 - Choice of powdered spice
 - Extra virgin olive oil 
+- 1 pan and 1 pot
 
 
 ### Instructions
