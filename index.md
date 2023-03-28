@@ -192,3 +192,4 @@ Add your recipe to the bulleted list:
 - [Lemony Asparagus Pasta](./recipes/LemonyAsparagusPasta.md)
 - [New York Cheesecake](./recipes/NewYorkCheesecake.md)
 - [Key Lime Pie](./recipes/KeyLimePie.md)
+- [Basque Cheesecake](./recipes/BasqueCheesecake.html)
