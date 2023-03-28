@@ -142,7 +142,6 @@ Add your recipe to the bulleted list:
 - [Quick n' Dirty Red Thai Chicken Curry](./recipes/quicknDirtyRedChknCurry.html)
 - [Egg Benedict](./recipes/Egg_benedict.html)
 - [Fried Cabbage and Bacon](./recipes/FriedCabbageandBacon.md)
-
 - [Garlic Noodles](./recipes/GarlicNoodles.html)
 - [Spanish Omelette](./recipes/SpanishOmelette.html)
 - [Korean Soft Tofu Soup (Soon Tofu)](./recipes/soontofu.html)
@@ -196,5 +195,5 @@ Add your recipe to the bulleted list:
 - [Air Fryer Salmon Bites](./recipes/AirFryerSalmonBites.html)
 - [Peanut Butter Pie](./recipes/Peanut_Butter_Pie.md)
 - [Banana Bread](./recipes/Banana_Bread.md)
-
 - [Brown Butter Chocolate Chip Cookies](./recipes/brownbuttercookies.md)
+- [Pancakes](./recipes/pancakes.md)
