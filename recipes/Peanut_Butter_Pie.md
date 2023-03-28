@@ -6,7 +6,7 @@ layout: default
 This is a comment. Note the triple dash to start, but double to end
 -->
 
-## Peanut Butter Pie
+## Kyle's Peanut Butter Pie
 <!---
 Put your name or github username somewhere
 Name: Kyle Kraus
