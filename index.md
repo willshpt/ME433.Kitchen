@@ -191,4 +191,8 @@ Add your recipe to the bulleted list:
 - [Salsa de Chile de Arbol](./recipes/SalsadeChiledeArbol.md)
 - [Lemony Asparagus Pasta](./recipes/LemonyAsparagusPasta.md)
 - [New York Cheesecake](./recipes/NewYorkCheesecake.md)
+- [Key Lime Pie](./recipes/KeyLimePie.md)
+- [Basque Cheesecake](./recipes/BasqueCheesecake.html)
+- [Air Fryer Salmon Bites](./recipes/AirFryerSalmonBites.html)
 - [Peanut Butter Pie](./recipes/Peanut_Butter_Pie.md)
+
