@@ -195,4 +195,4 @@ Add your recipe to the bulleted list:
 - [Basque Cheesecake](./recipes/BasqueCheesecake.html)
 - [Air Fryer Salmon Bites](./recipes/AirFryerSalmonBites.html)
 - [Peanut Butter Pie](./recipes/Peanut_Butter_Pie.md)
-
+- [Banana Bread](./recipes/Banana_Bread.md)
