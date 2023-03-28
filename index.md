@@ -193,5 +193,5 @@ Add your recipe to the bulleted list:
 - [New York Cheesecake](./recipes/NewYorkCheesecake.md)
 - [Key Lime Pie](./recipes/KeyLimePie.md)
 - [Basque Cheesecake](./recipes/BasqueCheesecake.html)
-- [Air Fryer Salmon Bites](./recipes/AirFryerSalmonBites.html).
+- [Air Fryer Salmon Bites](./recipes/AirFryerSalmonBites.html)
 
