@@ -196,3 +196,5 @@ Add your recipe to the bulleted list:
 - [Air Fryer Salmon Bites](./recipes/AirFryerSalmonBites.html)
 - [Peanut Butter Pie](./recipes/Peanut_Butter_Pie.md)
 - [Banana Bread](./recipes/Banana_Bread.md)
+
+- [Brown Butter Chocolate Chip Cookies](./recipes/brownbuttercookies.md)
