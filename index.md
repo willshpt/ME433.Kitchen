@@ -191,3 +191,4 @@ Add your recipe to the bulleted list:
 - [Salsa de Chile de Arbol](./recipes/SalsadeChiledeArbol.md)
 - [Lemony Asparagus Pasta](./recipes/LemonyAsparagusPasta.md)
 - [New York Cheesecake](./recipes/NewYorkCheesecake.md)
+- [Peanut Butter Pie](./recipes/Peanut_Butter_Pie.md)
