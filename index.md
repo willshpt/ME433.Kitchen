@@ -204,3 +204,4 @@ Add your recipe to the bulleted list:
 - [LBCs Omelet](./recipes/omelet_li.md)
 - [Pumpkin Pasta](./recipes/Pumpkin_Pasta.md)
 - [Kiflice](./recipes/Kiflice.md)
+- [Unhealthy fried rice](./recipes/friedrice.md)
