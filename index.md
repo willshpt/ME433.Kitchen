@@ -205,3 +205,4 @@ Add your recipe to the bulleted list:
 - [Pumpkin Pasta](./recipes/Pumpkin_Pasta.md)
 - [Kiflice](./recipes/Kiflice.md)
 - [Unhealthy fried rice](./recipes/friedrice.md)
+- [Birria Tacos](./recipes/birria.md)
