@@ -22,3 +22,8 @@ This is how I make fried rice. It's not healthy.
 7.  Add other spices
 8.  Keep frying the rice until its crunchy
 9.  For the best texture, use rice that was left in the fridge for a couple days
+
+<!--
+Keep this link to return to the index
+-->
+[back to index](../)
