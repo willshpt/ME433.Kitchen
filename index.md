@@ -200,3 +200,4 @@ Add your recipe to the bulleted list:
 - [Traditional Swiss Cheese Fondue](./recipes/fondue.md)
 - [Butterscotch Scotchies](./recipes/ButterscotchScotchies.md)
 - [Banana Bread and Frosting](./recipes//BananaBreadandFrosting.md)
+- [LBCs Omelet](./recipes/omelet_li.md)
