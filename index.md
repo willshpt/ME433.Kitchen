@@ -208,3 +208,4 @@ Add your recipe to the bulleted list:
 - [Birria Tacos](./recipes/birria.md)
 - [Lobster Muffins](./recipes/lobstermuffins.md)
 - [Chicken Thighs](./recipes/chickenthighs.md)
+- [Cinnamon Roll Cake](./recipes/cinnamon_roll_cake.md)
