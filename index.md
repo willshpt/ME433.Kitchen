@@ -206,3 +206,4 @@ Add your recipe to the bulleted list:
 - [Kiflice](./recipes/Kiflice.md)
 - [Unhealthy fried rice](./recipes/friedrice.md)
 - [Birria Tacos](./recipes/birria.md)
+- [Lobster Muffins](./recipes/lobstermuffins.md)
