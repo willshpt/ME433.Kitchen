@@ -203,3 +203,4 @@ Add your recipe to the bulleted list:
 - [Banana Bread and Frosting](./recipes//BananaBreadandFrosting.md)
 - [LBCs Omelet](./recipes/omelet_li.md)
 - [Pumpkin Pasta](./recipes/Pumpkin_Pasta.md)
+- [Kiflice](./recipes/Kiflice.md)
