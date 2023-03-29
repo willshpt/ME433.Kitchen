@@ -207,3 +207,4 @@ Add your recipe to the bulleted list:
 - [Unhealthy fried rice](./recipes/friedrice.md)
 - [Birria Tacos](./recipes/birria.md)
 - [Lobster Muffins](./recipes/lobstermuffins.md)
+- [Chicken Thighs](./recipes/chickenthighs.md)
