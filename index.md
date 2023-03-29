@@ -196,6 +196,7 @@ Add your recipe to the bulleted list:
 - [Peanut Butter Pie](./recipes/Peanut_Butter_Pie.md)
 - [Banana Bread](./recipes/Banana_Bread.md)
 - [Brown Butter Chocolate Chip Cookies](./recipes/brownbuttercookies.md)
+- [Fish and Chips](./recipes/FishAndChips.md)
 - [Pancakes](./recipes/pancakes.md)
 - [Traditional Swiss Cheese Fondue](./recipes/fondue.md)
 - [Butterscotch Scotchies](./recipes/ButterscotchScotchies.md)
