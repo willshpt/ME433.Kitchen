@@ -202,3 +202,4 @@ Add your recipe to the bulleted list:
 - [Butterscotch Scotchies](./recipes/ButterscotchScotchies.md)
 - [Banana Bread and Frosting](./recipes//BananaBreadandFrosting.md)
 - [LBCs Omelet](./recipes/omelet_li.md)
+- [Pumpkin Pasta](./recipes/Pumpkin_Pasta.md)
