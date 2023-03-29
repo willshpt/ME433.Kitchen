@@ -197,3 +197,4 @@ Add your recipe to the bulleted list:
 - [Banana Bread](./recipes/Banana_Bread.md)
 - [Brown Butter Chocolate Chip Cookies](./recipes/brownbuttercookies.md)
 - [Pancakes](./recipes/pancakes.md)
+- [Traditional Swiss Cheese Fondue](./recipes/fondue.md)
