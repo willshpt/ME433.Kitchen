@@ -198,4 +198,4 @@ Add your recipe to the bulleted list:
 - [Brown Butter Chocolate Chip Cookies](./recipes/brownbuttercookies.md)
 - [Pancakes](./recipes/pancakes.md)
 - [Traditional Swiss Cheese Fondue](./recipes/fondue.md)
-- [Butterscotch Scotchies](./recipes/ButterscotchScotchies.html)
+- [Butterscotch Scotchies](./recipes/ButterscotchScotchies.md)
