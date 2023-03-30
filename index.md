@@ -56,6 +56,7 @@ Add your recipe to the bulleted list:
 - [Aglio e Olio](./recipes/AglioEOlio.html)
 - [Deep Fried Tofu](./recipes/deepfriedtofu.html)
 - [Soft Pretzels](./recipes/softPretzels.html)
+- [Creamy Sausage Pasta](./recipes/CreamySausagePasta.html)
 - [Bubble Tea](./recipes/BubbleTea.html)
 - [Homestyle Wisconsin Beer Bread](./recipes/WisconsinBeerBread.md)
 - [Brownie in a Mug](./recipes/BrownieInAMug.html)
