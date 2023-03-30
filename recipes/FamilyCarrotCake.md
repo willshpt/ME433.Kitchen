@@ -21,8 +21,8 @@ This recipe has been in my family for a couple generations now. Given to me by m
 ## Instructions:
 
 1. Preheat the oven to 350F
-2. egin by peeling and cutting the carrots into 1/2 inch rounds.
-3. Then, blend together the carrots, oil, and eggs. This can be done using an immersion blender or regular blender.
+2. Begin by peeling and cutting the carrots into 1/2 inch rounds
+3. Then, blend together the carrots, oil, and eggs. This can be done using an immersion blender or regular blender
 4. Next, mix together the Sugar, Flour, and baking powder
 5. Mix the wet mixture into the dry mixture until there are no more pockets of dry mixture
 6. Butter a large, rectangular baking pan and sprinke flower so that it coats the interior
