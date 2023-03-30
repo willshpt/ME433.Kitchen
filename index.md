@@ -209,3 +209,4 @@ Add your recipe to the bulleted list:
 - [Lobster Muffins](./recipes/lobstermuffins.md)
 - [Chicken Thighs](./recipes/chickenthighs.md)
 - [Cinnamon Roll Cake](./recipes/cinnamon_roll_cake.md)
+- [Dolmades](./recipes/dolmades.md)
