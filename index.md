@@ -66,6 +66,7 @@ Add your recipe to the bulleted list:
 - [Sausage_Broccoli_Pasta](./recipes/Sausage_Broccoli_Pasta.html)
 - [SenthilPalanisamy](./recipes/indian_egg_masala.html)
 - [Cajun Shrimp Pasta](./recipes/cajunshrimppasta.html)
+- [Chicago Style Hot Dog](./recipes/hotdog.html)
 - [Lentil Soup](./recipes/LentilSoup.html)
 - [Veggie Pasta](./recipes/VeggiePasta.html)
 - [Salt-Pepper Shrimps](./recipes/SaltPepperShrimps.html)
@@ -210,3 +211,10 @@ Add your recipe to the bulleted list:
 - [Chicken Thighs](./recipes/chickenthighs.md)
 - [Cinnamon Roll Cake](./recipes/cinnamon_roll_cake.md)
 - [Dolmades](./recipes/dolmades.md)
+- [Raspberry Cheesecake](./recipes/raspberrycheesecake.md)
+- [Taco Soup](./recipes/TacoSoup.html)
+- [Manhattan](./recipes/Manhattan.md)
+- [Egg Fry Rice](./recipes/Egg_fry_rice.md)
+- [Pulled Chicken](./recipes/pulledchicken.md)
+
+
