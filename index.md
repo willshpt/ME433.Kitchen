@@ -239,4 +239,4 @@ Add your recipe to the bulleted list:
 - [Mac and Cheese](./recipes/MacCheese.html)
 - [Chocolate Chip Cookies](./recipes/ChocolateChipCookie.html)
 - [Eclair Dessert Casserole](./recipes/eclairdessert.html)
-- [Chicken Katsu](./recipes/chicken_katsu.md)
+- [Chicken Katsu](./recipes/chicken_katsu.html)
