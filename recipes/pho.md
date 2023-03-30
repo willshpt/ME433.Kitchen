@@ -14,7 +14,8 @@ Put your name or github username somewhere
 I really love eating Pho when it's cold out or when I'm sick!
 
 ### Ingredients
-#### Broth Ingredients:
+
+### Broth Ingredients:
 - Marrow bones and Meaty bones
 - Thinly sliced raw meat
 - Yellow onions
@@ -24,7 +25,8 @@ I really love eating Pho when it's cold out or when I'm sick!
 - Salt
 - Fish sauce
 - Sugar
-#### Garnish Ingredients:
+
+### Garnish Ingredients:
 - Fresh mint
 - Sprigs of Thai basil
 - Fresh cilantro
@@ -42,7 +44,8 @@ I really love eating Pho when it's cold out or when I'm sick!
 
 
 ### Instructions
-#### Pho Broth
+
+### Pho Broth
 1. Blanch the bones. This step is SO IMPORTANT. If you want a clear, beautiful pho broth, blanch your bones. Do this by dividing the bones between two large pots or stockpots. Cover with cold water. Bring to a boil over high heat and simmer for 15-20 minutes. Drain and rinse the bones with water.
 2. Roast the bones and the vegetables (optional). Preheat the oven to 450 degrees F. Transfer the bones, onion, garlic, and ginger to the roasting pans or rimmed baking sheets (you'll probably need two). Don’t pile them all on top of each other. Roast for 30 minutes before gently tossing the bones, and roasting for an additional 15-30 minutes more (for a total of 45-60 minutes).
 3. Toast the spices. As the bones are roasting, add all of your spices (the star anise, cinnamon, cloves, cardamom pods, coriander seeds, and fennel seeds) to a large, dry skillet over low heat. Toast the spices, stirring often to prevent burning, until fragrant, approximately 5 minutes. Divide the spices in half. Cut cheesecloth into two small square pieces (approximately 5-inches by 5-inches) each. Transfer the divided spices to the center of each square. Gather at the top and secure with kitchen twine.
@@ -53,7 +56,8 @@ I really love eating Pho when it's cold out or when I'm sick!
 8. Season to taste. Add additional salt (you'll probably need a little), soy sauce, fish sauce, sugar or rock sugar (found at Asian markets), to taste. Set aside the broth to cool (if you're not using right away) and reserve the bones.
 9. Don’t forget about the meat. I can almost guarantee that there is a TON of delicious meat waiting to be picked from the bones. Don’t let it go to waste! Discard the meat-free bones, herbs, and other bits that were used to make the broth, but save the meat and add to sandwiches, wraps, salads, or back to your broth.
 10. Skim the fat from the top (optional). Add a couple of handfuls of ice to your broth to expedite cooling and cover your pot with a lid. Transfer the broth to the refrigerator and allow the broth to cool fully (this will take upwards of 6 hours or overnight). The result will be a hard, thick layer of fat on the top and a bottom layer that is your pho broth (which should look like gelatinous brown jello). If desired use a fork to scoop off the top layer of fat.
-#### Assembly
+
+### Assembly
 1. Slice your meat. Thinly slice your meat. If you're having trouble, place it in the freezer for 10 minutes which will make it easier to slice.
 2. Noodles first. Grab a large bowl and divide the pre-cooked noodles between bowls.
 3. Add the raw meat. Yes, you guys. RAW. Add the meat directly on top of the rice noodles. Don’t worry, assuming your broth is boiling hot and not just warm, your meat will get fully cooked.
