@@ -199,6 +199,7 @@ Add your recipe to the bulleted list:
 - [Brown Butter Chocolate Chip Cookies](./recipes/brownbuttercookies.md)
 - [Fish and Chips](./recipes/FishAndChips.md)
 - [Pancakes](./recipes/pancakes.md)
+- [Pho](./recipes/pho.md)
 - [Traditional Swiss Cheese Fondue](./recipes/fondue.md)
 - [Butterscotch Scotchies](./recipes/ButterscotchScotchies.md)
 - [Banana Bread and Frosting](./recipes//BananaBreadandFrosting.md)
