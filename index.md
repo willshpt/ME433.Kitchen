@@ -123,6 +123,7 @@ Add your recipe to the bulleted list:
 - [Chicago Hot Dog](./recipes/ChicagoHotDog.html)
 - [Pozole](./recipes/pozole.html)
 - [Michael's Mac and Cheese](./recipes/MacandCheeseMichael.html)
+- [Lemon Cake](./recipes/LemonCake.html)
 - [Lemon Chicken](./recipes/LemonChicken.html)
 - [Cinnamon Baked French Toast](./recipes/CinnamonBakedFrenchToast.html)
 - [Barley Stuffed Peppers](./recipes/BarleyStuffedPeppers.html)
