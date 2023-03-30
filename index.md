@@ -220,4 +220,4 @@ Add your recipe to the bulleted list:
 - [Pulled Chicken](./recipes/pulledchicken.md)
 - [Creamy Chicken Vol-Au-Vent](./recipes/volauvent.html)
 - [Loukoumades](./recipes/loukoumades.md)
-
+- [Skillet Chicken Thighs](./recipes/skilletchickenthighs.html)
