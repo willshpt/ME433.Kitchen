@@ -237,4 +237,5 @@ Add your recipe to the bulleted list:
 - [Chicken Stir Fry](./recipes/ChickenStirFry.html)
 - [Mac and Cheese](./recipes/MacCheese.html)
 - [Chocolate Chip Cookies](./recipes/ChocolateChipCookie.html)
+- [Eclair Dessert Casserole](./recipes/eclairdessert.html)
 
