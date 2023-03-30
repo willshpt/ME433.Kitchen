@@ -21,7 +21,7 @@ Add your recipe to the bulleted list:
 - [Camping Burrito Bowls](./recipes/CampingBurritoBowls.html)
 - [Colombian Arroz Attollado](./recipes/arrozAtollado.html)
 - [JMLs Oatmeal](./recipes/JMLoatmeal.html)
-- [Jelke Tacos] (./recipes/jelkeTacos.html)
+- [Jelke Tacos](./recipes/jelkestacos.html)
 - [Crockpot Chicken Tacos](./recipes/CrockpotChickenTacos.html)
 - [Interpretive Spinach Breakfast Pancakes](./recipes/breakfastpancake.html)
 - [Beef Stew](./recipes/beefstew.html)
@@ -239,4 +239,4 @@ Add your recipe to the bulleted list:
 - [Mac and Cheese](./recipes/MacCheese.html)
 - [Chocolate Chip Cookies](./recipes/ChocolateChipCookie.html)
 - [Eclair Dessert Casserole](./recipes/eclairdessert.html)
-
+- [Chicken Katsu](./recipes/chicken_katsu.md)
