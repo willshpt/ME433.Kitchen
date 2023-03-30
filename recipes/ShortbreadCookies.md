@@ -20,3 +20,5 @@ This is my shortbread cookie recipe that I made in our very own Elder Hall.
 *   Remove the dough from the refrigerator and cut into shapes.
 *   Bake the cookies for 25 minutes at 275 degrees F.
 *   Enjoy :)
+
+[back to index](./index.md)
