@@ -11,7 +11,7 @@ Ingredients:
 
 
 Instructions:
-1. Boil your hot dog for 4 minutes
+1. Boil your gliz- I mean your hot dog for 4 minutes
 2. Toast your buns on a skillet
 3. Add your relish to your bun
 4. Add your cooked hot dog to the bun
