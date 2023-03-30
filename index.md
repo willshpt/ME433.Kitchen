@@ -219,5 +219,5 @@ Add your recipe to the bulleted list:
 - [Egg Fry Rice](./recipes/Egg_fry_rice.md)
 - [Pulled Chicken](./recipes/pulledchicken.md)
 - [Creamy Chicken Vol-Au-Vent](./recipes/volauvent.html)
-- [Loukoumades](./recipes/loukoumades.html)
+- [Loukoumades](./recipes/loukoumades.md)
 
