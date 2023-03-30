@@ -212,4 +212,4 @@ Add your recipe to the bulleted list:
 - [Cinnamon Roll Cake](./recipes/cinnamon_roll_cake.md)
 - [Raspberry Cheesecake](./recipes/raspberrycheesecake.md)
 - [Taco Soup](./recipes/TacoSoup.html)
-
+- [Manhattan](./recipes/Manhattan.md)
