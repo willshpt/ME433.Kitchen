@@ -18,6 +18,7 @@ Add your recipe to the bulleted list:
 - [Banana Muffins](./recipes/bananamuffins.html) <!--- The link ends in html even though the file ends in .md -->
 - [Creme Brulee](./recipes/Creme_Brulee.html)
 - [The Undergrad Skillet](./recipes/undergradSkillet.html)
+- [Camping Burrito Bowls](./recipes/CampingBurritoBowls.html)
 - [Colombian Arroz Attollado](./recipes/arrozAtollado.html)
 - [JMLs Oatmeal](./recipes/JMLoatmeal.html)
 - [Jelke Tacos](./recipes/jelkestacos.html)
