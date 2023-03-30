@@ -104,6 +104,7 @@ Add your recipe to the bulleted list:
 - [Steamed Egg](./recipes/steamedegg.html)
 - [Tiramisu.md](./recipes/Tiramisu.html)
 - [Good Instant Ramen](./recipes/instantramen.html)
+- [Hard Boiled Egg](./recipes/HardBoiledEgg.html)
 - [Mac and Cheese](./recipes/MacandCheeseGodson.html)
 - [Gratin Savoyard](./recipes/GratinSavoyard.html)
 - [Steak](./recipes/Steak.html)
