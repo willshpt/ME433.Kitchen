@@ -213,6 +213,6 @@ Add your recipe to the bulleted list:
 - [Raspberry Cheesecake](./recipes/raspberrycheesecake.md)
 - [Taco Soup](./recipes/TacoSoup.html)
 - [Manhattan](./recipes/Manhattan.md)
-- [Egg Fry Rice](./recipes/Egg_Fry_Rice.md)
+- [Egg Fry Rice](./recipes/Egg_fry_rice.md)
 - [Pulled Chicken](./recipes/pulledchicken.md)
 
