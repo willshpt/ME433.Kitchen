@@ -1,17 +1,22 @@
 # Welcome to the ME433 Kitchen!
+
 This is a repository for ME433 Advanced Mechatronics at Northwestern University. We are using this repository to practice using git.
 
 ## Instructions
+
 The information contained here are some of our favorite recipes. Clone the repository, add your recipe as a file with the .md extension, and edit this file, index.md, by adding a link to your recipe. Commit and push your changes, and check [https://ndm736.github.io/ME433.Kitchen/](https://ndm736.github.io/ME433.Kitchen/) to see how it looks on the website (it may take a few minutes to update).
 
 Check the README.md file and [Dinky theme](https://pages-themes.github.io/dinky/) for hints on formatting.
 
 ### Example
+
 Here is my example, [Banana Muffins](./recipes/bananamuffins.html)
 
 ## Our recipes
+
 Add your recipe to the bulleted list:
 - [Banana Muffins](./recipes/bananamuffins.html) <!--- The link ends in html even though the file ends in .md -->
+- [Creme Brulee](./recipes/Creme_Brulee.html)
 - [The Undergrad Skillet](./recipes/undergradSkillet.html)
 - [Colombian Arroz Attollado](./recipes/arrozAtollado.html)
 - [JMLs Oatmeal](./recipes/JMLoatmeal.html)
@@ -99,6 +104,7 @@ Add your recipe to the bulleted list:
 - [Steamed Egg](./recipes/steamedegg.html)
 - [Tiramisu.md](./recipes/Tiramisu.html)
 - [Good Instant Ramen](./recipes/instantramen.html)
+- [Hard Boiled Egg](./recipes/HardBoiledEgg.html)
 - [Mac and Cheese](./recipes/MacandCheeseGodson.html)
 - [Gratin Savoyard](./recipes/GratinSavoyard.html)
 - [Steak](./recipes/Steak.html)
@@ -117,6 +123,7 @@ Add your recipe to the bulleted list:
 - [Chicago Hot Dog](./recipes/ChicagoHotDog.html)
 - [Pozole](./recipes/pozole.html)
 - [Michael's Mac and Cheese](./recipes/MacandCheeseMichael.html)
+- [Lemon Cake](./recipes/LemonCake.html)
 - [Lemon Chicken](./recipes/LemonChicken.html)
 - [Cinnamon Baked French Toast](./recipes/CinnamonBakedFrenchToast.html)
 - [Barley Stuffed Peppers](./recipes/BarleyStuffedPeppers.html)
@@ -198,6 +205,7 @@ Add your recipe to the bulleted list:
 - [Banana Bread](./recipes/Banana_Bread.md)
 - [Brown Butter Chocolate Chip Cookies](./recipes/brownbuttercookies.md)
 - [Fish and Chips](./recipes/FishAndChips.md)
+- [Pho](./recipes/pho.md)
 - [Pancakes](./recipes/pancakes.md)
 - [Traditional Swiss Cheese Fondue](./recipes/fondue.md)
 - [Butterscotch Scotchies](./recipes/ButterscotchScotchies.md)
@@ -210,6 +218,25 @@ Add your recipe to the bulleted list:
 - [Lobster Muffins](./recipes/lobstermuffins.md)
 - [Chicken Thighs](./recipes/chickenthighs.md)
 - [Cinnamon Roll Cake](./recipes/cinnamon_roll_cake.md)
+- [Shortbread Cookies](./recipes/ShortbreadCookies.md)
+- [Dolmades](./recipes/dolmades.md)
 - [Raspberry Cheesecake](./recipes/raspberrycheesecake.md)
 - [Taco Soup](./recipes/TacoSoup.html)
+- [Manhattan](./recipes/Manhattan.md)
+- [Egg Fry Rice](./recipes/Egg_fry_rice.md)
+- [Pulled Chicken](./recipes/pulledchicken.md)
+- [Breakfast Quesadilla](./recipes/breakfast_quesadilla.html)
+- [Creamy Chicken Vol-Au-Vent](./recipes/volauvent.html)
+- [Loukoumades](./recipes/loukoumades.md)
+- [Skillet Chicken Thighs](./recipes/SkilletChickenThighs.html)
+- [Family Carrot Cake](./recipes/FamilyCarrotCake.html)
+- [Mapo Tofu](./recipes/mapo_tofu.html)
+- [Scallion Pancakes](./recipes/ScallionPancakes.html)
+- [Turkey Chili](./recipes/TurkeyChili.md)
+- [Indian Pohe](./recipes/New1Pohe.md)
+- [Chicken Stir Fry](./recipes/ChickenStirFry.html)
+- [Mac and Cheese](./recipes/MacCheese.html)
+- [Chocolate Chip Cookies](./recipes/ChocolateChipCookie.html)
+- [Eclair Dessert Casserole](./recipes/eclairdessert.html)
+- [PB&M](./recipes/PB&M.md)
 
