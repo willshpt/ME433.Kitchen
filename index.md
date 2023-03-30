@@ -241,3 +241,4 @@ Add your recipe to the bulleted list:
 - [Chocolate Chip Cookies](./recipes/ChocolateChipCookie.html)
 - [Eclair Dessert Casserole](./recipes/eclairdessert.html)
 - [Chicken Katsu](./recipes/ChickenKatsu.html)
+- [Nigerian Meat Pie](./recipes/NigerianMeatPie.md)

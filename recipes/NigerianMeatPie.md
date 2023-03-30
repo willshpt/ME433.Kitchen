@@ -6,7 +6,7 @@ layout: default
 This is a comment. Note the triple dash to start, but double to end
 -->
 
-## Nigerian (ish) Meat Pie
+## Nigerian (ish) Meat Pie for Chibu
 <!---
 Name: Chibueze Onyenemezu
 -->
