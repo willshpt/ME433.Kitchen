@@ -232,5 +232,5 @@ Add your recipe to the bulleted list:
 - [Mapo Tofu](./recipes/mapo_tofu.html)
 - [Scallion Pancakes](./recipes/ScallionPancakes.html)
 - [Turkey Chili](./recipes/TurkeyChili.md)
-- [Indian Pohe](./recipes/Pohe.md)
+- [Indian Pohe](./recipes/NewPohe.md)
 
