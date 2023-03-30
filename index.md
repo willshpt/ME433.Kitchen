@@ -217,5 +217,5 @@ Add your recipe to the bulleted list:
 - [Manhattan](./recipes/Manhattan.md)
 - [Egg Fry Rice](./recipes/Egg_fry_rice.md)
 - [Pulled Chicken](./recipes/pulledchicken.md)
-
+- [Creamy Chicken Vol-Au-Vent](./recipes/volauvent.html)
 
