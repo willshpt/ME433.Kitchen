@@ -20,7 +20,7 @@ Add your recipe to the bulleted list:
 - [The Undergrad Skillet](./recipes/undergradSkillet.html)
 - [Colombian Arroz Attollado](./recipes/arrozAtollado.html)
 - [JMLs Oatmeal](./recipes/JMLoatmeal.html)
-- [Jelke Tacos] (./recipes/jelkeTacos.html)
+- [Jelke Tacos](./recipes/jelkestacos.html)
 - [Crockpot Chicken Tacos](./recipes/CrockpotChickenTacos.html)
 - [Interpretive Spinach Breakfast Pancakes](./recipes/breakfastpancake.html)
 - [Beef Stew](./recipes/beefstew.html)
