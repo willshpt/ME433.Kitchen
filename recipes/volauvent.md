@@ -31,9 +31,10 @@ This recipe is a traditional Quebecois dish that will make about 12 vol-au-vents
 5. Meanwhile, bake the puff pastry shells in the preheated oven for 18-20 minutes or until golden brown.
 6. Melt the butter in a separate saucepan over medium heat. Add the onion and cook until translucent. Add the flour and whisk to combine. Cook for 1-2 minutes until the mixture turns light brown in color.
 7. Gradually whisk in the milk, stirring constantly to avoid lumps. Bring the mixture to a boil over medium-high heat and continue whisking until the sauce thickens. Season with salt and black pepper to taste.
-8. Combine the cooked chicken mixture and the bechamel sauce in the same saucepan.
-9. Remove the tops of the puff pastry shells and fill them with the chicken mixture. Replace the tops of the shells and bake for an additional 10 minutes until heated through.
-10. Broil the vol-au-vents for an additional 1-2 minutes for extra crispiness. Garnish with any leftover chicken mixture and serve hot.
+8. Remove the cooked chicken mixture from the saucepan and drain the liquid. The drained liquid can be reserved to make a delicious soup.
+9. Combine the cooked chicken mixture and the bechamel sauce in the same saucepan.
+10. Remove the tops of the puff pastry shells and fill them with the chicken mixture. Replace the tops of the shells and bake for an additional 10 minutes until heated through.
+11. Broil the vol-au-vents for an additional 1-2 minutes for extra crispiness. Garnish with any leftover chicken mixture and serve hot.
 
 Bon appétit!
 
