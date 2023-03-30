@@ -226,3 +226,4 @@ Add your recipe to the bulleted list:
 - [Creamy Chicken Vol-Au-Vent](./recipes/volauvent.html)
 - [Loukoumades](./recipes/loukoumades.md)
 - [Family Carrot Cake](./recipes/FamilyCarrotCake.html)
+- [Mapo Tofu](./recipes/mapo_tofu.html)
