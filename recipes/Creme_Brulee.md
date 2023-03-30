@@ -37,4 +37,4 @@ Enjoy!
 <!--
 Keep this link to return to the index
 -->
-[back to index](./recipes/Creme_Brulee.md)
+[back to index](recipes/Creme_Brulee.md)
