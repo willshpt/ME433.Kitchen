@@ -233,4 +233,4 @@ Add your recipe to the bulleted list:
 - [Scallion Pancakes](./recipes/ScallionPancakes.html)
 - [Turkey Chili](./recipes/TurkeyChili.md)
 - [Indian Pohe](./recipes/New1Pohe.md)
-
+- [Chicken Stir Fry](./recipes/ChickenStirFry.html)
