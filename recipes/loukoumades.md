@@ -15,17 +15,17 @@ Source: https://www.mygreekdish.com/recipe/loukoumades/
 
 ### Ingredients
 
--1 cup of lukewarm water (240g /8.5 oz.)
--1 cup of lukewarm milk (240g/ 8.5 oz.)
--15 g active dry yeast (0.5 oz.)
--3 and 1/4 of a cup flour (450g /16 oz.)
--2 tbsps sugar
--1 flat tsp salt
--4 tbsps olive oil
--vegetable oil for frying
--3/4 cup honey (350g/ 13 oz.)
--cinnamon powder
--chopped walnuts
+- 1 cup of lukewarm water (240g /8.5 oz.)
+- 1 cup of lukewarm milk (240g/ 8.5 oz.)
+- 15 g active dry yeast (0.5 oz.)
+- 3 and 1/4 of a cup flour (450g /16 oz.)
+- 2 tbsps sugar
+- 1 flat tsp salt
+- 4 tbsps olive oil
+- vegetable oil for frying
+- 3/4 cup honey (350g/ 13 oz.)
+- cinnamon powder
+- chopped walnuts
 
 
 
