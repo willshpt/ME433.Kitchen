@@ -224,6 +224,7 @@ Add your recipe to the bulleted list:
 - [Manhattan](./recipes/Manhattan.md)
 - [Egg Fry Rice](./recipes/Egg_fry_rice.md)
 - [Pulled Chicken](./recipes/pulledchicken.md)
+- [Breakfast Quesadilla](./recipes/breakfast_quesadilla.html)
 - [Creamy Chicken Vol-Au-Vent](./recipes/volauvent.html)
 - [Loukoumades](./recipes/loukoumades.md)
 - [Skillet Chicken Thighs](./recipes/SkilletChickenThighs.html)
