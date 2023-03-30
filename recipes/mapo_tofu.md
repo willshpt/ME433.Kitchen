@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## mapo tofu
+## Hanyin's Mapo Tofu Recipe
 Mapo Tofu is a popular Chinese dish originating from Sichuan province, known for its bold and spicy flavors.
 ### Ingredients
 - 1 block (14-16 oz) of firm or medium-firm tofu
