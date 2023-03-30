@@ -231,4 +231,5 @@ Add your recipe to the bulleted list:
 - [Family Carrot Cake](./recipes/FamilyCarrotCake.html)
 - [Mapo Tofu](./recipes/mapo_tofu.html)
 - [Scallion Pancakes](./recipes/ScallionPancakes.html)
+- [Turkey Chili](.recipes/TurkeyChili.md)
 
