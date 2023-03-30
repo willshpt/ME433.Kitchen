@@ -3,7 +3,8 @@ layout: default
 ---
 
 # Camping Burrito Bowls
-by Michael Miller
+By Michael Miller 
+
 Cooking time ~1 hr
 
 Easy to make recipe for big groups at home or when on a rugged budget.
