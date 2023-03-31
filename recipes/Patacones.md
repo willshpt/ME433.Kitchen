@@ -1,8 +1,6 @@
-Syntax highlighted code block
-
 # Recipe for Patacones
 These are a recipe for fried plantains, as traditionally made in Colombia. I've also heard them called Tostones. 
-They're a great appetizer or side. Add a sausage and it's a whole meal.
+They're a great appetizer or side, add a sausage and it's a whole meal.
 
 # Ingredients:
 - 1 Plantain per person on avg.
