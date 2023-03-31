@@ -242,4 +242,4 @@ Add your recipe to the bulleted list:
 - [Eclair Dessert Casserole](./recipes/eclairdessert.html)
 - [Chicken Katsu](./recipes/ChickenKatsu.html)
 - [Nigerian Meat Pie](./recipes/NigerianMeatPie.md)
-- [Pina Colada](.recipes/Pina_Colada.html)
+- [Pina Colada](./recipes/Pina_Colada.html)
