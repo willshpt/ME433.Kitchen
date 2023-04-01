@@ -243,3 +243,4 @@ Add your recipe to the bulleted list:
 - [Chicken Katsu](./recipes/ChickenKatsu.html)
 - [Nigerian Meat Pie](./recipes/NigerianMeatPie.md)
 - [Pina Colada](./recipes/Pina_Colada.html)
+- [Eggs & Bacon](./recipes/eggsbacon.html)
