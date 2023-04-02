@@ -245,3 +245,4 @@ Add your recipe to the bulleted list:
 - [Nigerian Meat Pie](./recipes/NigerianMeatPie.md)
 - [Pina Colada](./recipes/Pina_Colada.html)
 - [Eggs & Bacon](./recipes/eggsbacon.html)
+- [Meatballs](./recipes/Meatballs.html)
