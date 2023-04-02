@@ -33,7 +33,7 @@ For a visual of biltong, check out these photos: [here](https://www.google.com/s
 
 7. To serve, slice the biltong into thin strips and enjoy as a snack or appetizer.
 
-Note: Air-drying meat carries a higher risk of bacterial contamination than oven drying, so it is important to use high-quality meat and to ensure that the meat is properly marinated and dried before eating. It is also recommended to use a meat thermometer to check the internal temperature of the meat to ensure it has reached a safe level.
+Note: Air-drying meat carries a higher risk of bacterial contamination than oven drying, so it is important to use high-quality meat and to ensure that the meat is properly marinated and dried before eating.
 
 Enjoy!
 
