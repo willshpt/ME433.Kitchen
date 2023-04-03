@@ -16,7 +16,9 @@ The preparation of instant ramen represents the peak of culinary skill. Best ser
 2. Heat the water until boiling using medium or high heat
 3. Add the seasoning powder or soup base
 4. Add any other dried vegetables
-5. Stir
+5. Stir using utensil of choice (or fingers, if you're a rebel)
 6. Gently put the noodles into the pot to avoid splashes
-7. Cook the noodles for 3-5 minutes until softened
+7. Cook the noodles for 3-5 minutes until softened, stirring occasionally
 8. Remove from heat
+
+Note that the noodles can be added before seasoning, if desired
