@@ -27,3 +27,8 @@ A simple and reasonably cheap meal for any time of day! Continue reading for flu
 5.  make sure to aerate eggs while stirring!
 6.  once mixture begins to lose it lustre, turn off heat and replace lid on saucepan for a few minutes so the eggs do not dry out.
 7.  serve hot!
+
+<!--
+Keep this link to return to the index
+-->
+[back to index](../)
