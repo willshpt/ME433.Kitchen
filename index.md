@@ -247,3 +247,4 @@ Add your recipe to the bulleted list:
 - [Eggs & Bacon](./recipes/eggsbacon.html)
 - [Meatballs](./recipes/Meatballs.html)
 - [Graham Crackers with Frosting](./recipes/grahamcrackers.md)
+- [Water Chicken](./recipes/WaterChicken.md)
