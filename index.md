@@ -99,6 +99,7 @@ Add your recipe to the bulleted list:
 - [Rice](./recipes/rice.html)
 - [Rice and Beans](./recipes/RiceAndBeans.html)
 - [Trinidad Kurma](./recipes/trinidadkurma.html)
+- [Homemade Vanilla Pudding](./recipes/Pudding.html)
 - [Stuffed French Toast](./recipes/frenchtoast.html)
 - [Masala Chai](./recipes/MasalaChai.html)
 - [Cinnamon Rolls](./recipes/cinnamonRolls.html)
