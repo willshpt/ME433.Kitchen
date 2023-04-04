@@ -248,3 +248,4 @@ Add your recipe to the bulleted list:
 - [Meatballs](./recipes/Meatballs.html)
 - [Graham Crackers with Frosting](./recipes/grahamcrackers.md)
 - [Water Chicken](./recipes/WaterChicken.md)
+- [Chocolate Cheesecake](./recipes/Chocolate_Cheesecake.md)
