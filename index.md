@@ -246,4 +246,4 @@ Add your recipe to the bulleted list:
 - [Pina Colada](./recipes/Pina_Colada.html)
 - [Eggs & Bacon](./recipes/eggsbacon.html)
 - [Meatballs](./recipes/Meatballs.html)
-- [Graham Crackers with Frosting](./recipes/grahamcrackers.html)
+- [Graham Crackers with Frosting](./recipes/grahamcrackers.md)
