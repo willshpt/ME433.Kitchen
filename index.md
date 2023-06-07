@@ -253,3 +253,4 @@ Add your recipe to the bulleted list:
 - [Graham Crackers with Frosting](./recipes/grahamcrackers.md)
 - [Water Chicken](./recipes/WaterChicken.md)
 - [Chocolate Cheesecake](./recipes/Chocolate_Cheesecake.md)
+- [Gnocchi Recipe](./recipe/gnocchi.md)
